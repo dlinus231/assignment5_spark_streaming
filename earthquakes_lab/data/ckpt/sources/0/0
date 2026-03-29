@@ -1,0 +1,3 @@
+v1
+{"path":"file:///home/compute/d.linus/assignment5_spark_streaming/earthquakes_lab/data/landing/part-00000-76593908-2ebb-47f1-ab4d-441004e10657-c000.csv","timestamp":1774744598134,"batchId":0}
+{"path":"file:///home/compute/d.linus/assignment5_spark_streaming/earthquakes_lab/data/landing/part-00000-76593908-2ebb-47f1-ab4d-441004e10657-c001.csv","timestamp":1774744598220,"batchId":0}

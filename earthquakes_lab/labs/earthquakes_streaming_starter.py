@@ -40,7 +40,7 @@ import argparse
 from pyspark.sql import SparkSession
 from pyspark.sql.types import StructType, StringType, DoubleType, StructField
 from pyspark.sql.functions import (
-    col, to_timestamp, from_unixtime, when, regexp_extract, expr, window, count
+    col, to_timestamp, from_unixtime, when, regexp_extract, expr, window, count, split, trim, element_at
 )
 
 def create_spark(app_name="earthquakes-streaming-lab"):
@@ -70,7 +70,15 @@ def robust_event_ts(df):
     - Use a conditional expression to choose between the numeric path (epoch ms → seconds → timestamp) and the string parse path (ISO8601 → timestamp).
     - Ensure the final type of 'event_ts' is a Spark TimestampType, not a string.
     """
-    return df.withColumn("event_ts", to_timestamp(col("time"), "yyyy-MM-dd'T'HH:mm:ss.SSSX"))
+    return df.withColumn(
+        "event_ts",
+        when(
+            col("time").rlike("^[0-9]+$"),
+            to_timestamp(from_unixtime(col("time").cast("double") / 1000))
+        ).otherwise(
+            to_timestamp(col("time"), "yyyy-MM-dd'T'HH:mm:ss.SSSX")
+        )
+    )
 
 def derive_region_and_mag(df):
     """
@@ -108,9 +116,9 @@ def derive_region_and_mag(df):
     with_mag_d = with_region.withColumn("mag_d", col("mag").cast("double"))
     with_magnitude_band = with_mag_d.withColumn("magnitude_band", 
        when(
-          col(mag_d).isNull(), "unknown"
+          col("mag_d").isNull(), "unknown"
        ).when(
-           (col("mag_d") <= 0) & (col("mag_d") < 2), "[0-2)"
+          (col("mag_d") >= 0) & (col("mag_d") < 2), "[0-2)"
        ).when(
           (col("mag_d") >= 2) & (col("mag_d") < 4), "[2-4)"
        ).when(
@@ -183,7 +191,6 @@ def build_stream(spark, landing_path, out_path, ckpt_path):
        .groupBy(
            window(col("event_ts"), "15 minutes"),
            col("region"),
-           col("mag_d"),
            col("magnitude_band")
        ).agg(
            count("*").alias("count")
@@ -195,15 +202,15 @@ def build_stream(spark, landing_path, out_path, ckpt_path):
           col("count")
        )
     console_write_stream = windowed_df.writeStream \
-       .format("csv") \
-       .outputMode("console") \
+       .format("console") \
+       .outputMode("update") \
        .start()
  
-    def write_csv(batch_df, batch_id):
-       batch_df.write.mode("update").parquet(out_path, header=True)
+    def write_parquet(batch_df, batch_id):
+       batch_df.write.mode("append").parquet(out_path)
  
     file_write_stream = windowed_df.writeStream \
-       .foreachBatch(write_csv) \
+       .foreachBatch(write_parquet) \
        .option("checkpointLocation", ckpt_path) \
        .start()
     return [console_write_stream, file_write_stream]
