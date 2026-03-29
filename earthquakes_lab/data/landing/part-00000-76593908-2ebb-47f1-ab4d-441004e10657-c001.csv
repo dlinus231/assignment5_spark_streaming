@@ -1,0 +1,772 @@
+id,time,latitude,longitude,depth,mag,magType,place,type
+aka2026eecibc,2026-02-28T21:13:02.027Z,60.996,-151.004,55.1,2.4,ml,"10 km SE of Tyonek, Alaska",earthquake
+nc75320387,2026-02-28T21:08:46.760Z,38.847667694092,-122.81616973877,1.8500000238419,0.73,md,"9 km WNW of Cobb, CA",earthquake
+nn00911415,2026-02-28T21:07:38.284Z,38.4535,-116.5601,10.4586,2.96,ml,"72 km NE of Tonopah, Nevada",earthquake
+aka2026eeccad,2026-02-28T21:06:02.167Z,60.331,-139.321,1.6,1.8,ml,"90 km NNE of Yakutat, Alaska",earthquake
+nc75320382,2026-02-28T21:04:20.640Z,38.797164916992,-122.81449890137,3.1199998855591,0.86,md,"5 km WNW of The Geysers, CA",earthquake
+aka2026eebznk,2026-02-28T21:03:07.849Z,63.109,-149.869,83.8,2,ml,"55 km SW of Cantwell, Alaska",earthquake
+nc75320377,2026-02-28T21:01:18.280Z,38.79016494751,-122.73433685303,1.289999961853,1.7,md,"2 km NE of The Geysers, CA",earthquake
+tx2026eebwpz,2026-02-28T20:59:46.289Z,32.299,-101.856,5.542,0.4,ml,"19 km NNW of Stanton, Texas",earthquake
+aka2026eebuqv,2026-02-28T20:57:25.962Z,61.142,-140.024,0.5,1.8,ml,"158 km ESE of McCarthy, Alaska",earthquake
+aka2026eebubb,2026-02-28T20:56:44.571Z,62.673,-149.326,63.9,1.4,ml,"47 km ENE of Chase, Alaska",earthquake
+aka2026eebted,2026-02-28T20:55:46.381Z,66.132,-148.686,15,2.2,ml,"23 km NE of Stevens Village, Alaska",earthquake
+nn00911414,2026-02-28T20:53:51.933Z,38.5584,-116.3805,15.9323,1.76,ml,"92 km NE of Tonopah, Nevada",earthquake
+nc75320367,2026-02-28T20:51:03.920Z,40.691166666667,-121.49783333333,11.15,1.84,md,"24 km NE of Viola, CA",earthquake
+nc75320362,2026-02-28T20:48:29.010Z,38.830166666667,-122.80116666667,2.1,0.28,md,"7 km W of Cobb, CA",earthquake
+nn00911413,2026-02-28T20:46:32.399Z,38.4735,-116.4958,8.8313,1.6,ml,"78 km NE of Tonopah, Nevada",earthquake
+aka2026eebjzx,2026-02-28T20:45:07.351Z,61.149,-140.024,1.4,2.2,ml,"158 km ESE of McCarthy, Alaska",earthquake
+aka2026eebhve,2026-02-28T20:42:36.581Z,62.196,-150.472,14.6,1.6,ml,"18 km SW of Trapper Creek, Alaska",earthquake
+nn00911410,2026-02-28T20:36:03.226Z,36.1486,-115.6105,0.0029,1.81,ml,"12 km SSE of Mount Charleston, Nevada",earthquake
+nn00911408,2026-02-28T20:24:24.606Z,38.5102,-116.4545,1.6414,1.77,ml,"83 km NE of Tonopah, Nevada",earthquake
+aka2026eeanli,2026-02-28T20:18:55.302Z,61.146,-139.999,3.6,1.8,ml,"159 km ESE of McCarthy, Alaska",earthquake
+aka2026eeakzj,2026-02-28T20:16:09.658Z,61.319,-146.755,18.4,1.8,ml,"30 km NW of Valdez, Alaska",earthquake
+nm60617981,2026-02-28T20:08:31.780Z,36.559166666667,-89.600166666667,9.28,1.66,md,"0 km S of Howardville, Missouri",earthquake
+tx2026eeadge,2026-02-28T20:07:06.800Z,32.409,-101.401,6.0791,0.9,ml,"14 km NNW of Sand Springs, Texas",earthquake
+aka2026eeaccr,2026-02-28T20:05:56.173Z,59.973,-152.69,99.8,1.7,ml,"52 km WNW of Anchor Point, Alaska",earthquake
+tx2026eeabpk,2026-02-28T20:05:22.407Z,32.409,-101.403,6.1768,1.1,ml,"14 km NNW of Sand Springs, Texas",earthquake
+ci41406624,2026-02-28T20:00:13.260Z,33.085666666667,-116.60083333333,11.63,0.56,ml,"1 km N of Julian, CA",earthquake
+nc75320352,2026-02-28T19:56:26.280Z,38.827167510986,-122.81449890137,1.9900000095367,0.96,md,"7 km NW of The Geysers, CA",earthquake
+us7000s13v,2026-02-28T19:55:55.897Z,32.9741,76.1687,10,4.4,mb,"42 km E of Bhadarwāh, India",earthquake
+nc75320347,2026-02-28T19:53:39.060Z,39.284833333333,-123.09233333333,6.99,1.41,md,"10 km ENE of Redwood Valley, CA",earthquake
+tx2026edzihn,2026-02-28T19:42:52.884Z,31.96,-102.115,8.8623,0.5,ml,"5 km SW of Midland, Texas",earthquake
+nc75320342,2026-02-28T19:41:06.820Z,40.412666666667,-124.09316666667,21.34,2.02,md,"10 km S of Rio Dell, CA",earthquake
+av94065178,2026-02-28T19:35:14.830Z,59.999,-153.23616666667,0.8,-0.47,ml,"54 km ENE of Pedro Bay, Alaska",earthquake
+aka2026edzbif,2026-02-28T19:34:42.114Z,58.288,-154.264,83,1.5,ml,"80 km N of Karluk, Alaska",earthquake
+ci41406600,2026-02-28T19:32:46.050Z,33.897166666667,-116.16983333333,4.27,2.36,ml,"20 km NNE of Indio, CA",earthquake
+us7000s2p7,2026-02-28T19:31:03.880Z,52.3354,-169.8104,7.815,2.8,ml,"92 km SW of Nikolski, Alaska",earthquake
+nc75320332,2026-02-28T19:30:50.850Z,38.7775,-122.71033333333,1.77,0.44,md,"2 km W of Anderson Springs, CA",earthquake
+aka2026edywya,2026-02-28T19:29:36.713Z,62.225,-151.084,73.4,1.6,ml,"30 km NNE of Skwentna, Alaska",earthquake
+ci41406592,2026-02-28T19:27:37.630Z,33.516666666667,-116.89016666667,11.43,0.64,ml,"9 km NNW of Aguanga, CA",earthquake
+nc75320327,2026-02-28T19:12:32.460Z,38.763500213623,-122.72799682617,1.8600000143051,0.59,md,"3 km ESE of The Geysers, CA",earthquake
+ok2026edlc,2026-02-28T19:09:57.539Z,35.62383333,-98.02866667,5.74,1.4,ml,"8 km ENE of Calumet, Oklahoma",earthquake
+uw62229291,2026-02-28T19:09:21.030Z,46.667666666667,-122.1165,21.72,1.77,ml,"7 km SE of Mineral, Washington",earthquake
+us7000s2p6,2026-02-28T19:06:46.245Z,61.1558,-140.0367,4.071,2.5,ml,"157 km ESE of McCarthy, Alaska",earthquake
+us7000s2p4,2026-02-28T19:05:37.327Z,61.1995,-140.0509,3.806,2.7,ml,"155 km E of McCarthy, Alaska",earthquake
+nc75320322,2026-02-28T19:03:50.840Z,38.822334289551,-122.84583282471,2.4100000858307,1.13,md,"9 km WNW of The Geysers, CA",earthquake
+us7000s13p,2026-02-28T19:03:07.627Z,61.1767,-140.0081,5,3.4,ml,"158 km ESE of McCarthy, Alaska",earthquake
+ok2026edkr,2026-02-28T18:56:41.509Z,34.4,-97.41316667,3.17,1.47,ml,"10 km SSE of Tatums, Oklahoma",earthquake
+nn00911404,2026-02-28T18:48:49.416Z,38.3953,-116.6722,4.5266,1.81,ml,"60 km NE of Tonopah, Nevada",earthquake
+aka2026edxkbu,2026-02-28T18:44:31.112Z,60.176,-153.401,159.3,1.9,ml,"50 km E of Port Alsworth, Alaska",earthquake
+nn00911402,2026-02-28T18:44:09.775Z,38.4914,-116.4681,0.0475,1.83,ml,"81 km NE of Tonopah, Nevada",earthquake
+us7000s2p3,2026-02-28T18:41:33.617Z,53.4671,-165.8182,30.622,2.5,ml,"65 km SE of Unalaska, Alaska",earthquake
+nc75320317,2026-02-28T18:40:18.820Z,40.455333333333,-125.14333333333,10,2.7,md,"74 km WNW of Petrolia, CA",earthquake
+nc75320312,2026-02-28T18:34:51.000Z,37.080833333333,-121.50133333333,8.49,0.76,md,"10 km E of San Martin, CA",earthquake
+nn00911398,2026-02-28T18:31:46.987Z,38.3465,-116.7781,8.6826,1.7,ml,"50 km NE of Tonopah, Nevada",earthquake
+aka2026edwwfd,2026-02-28T18:28:25.649Z,63.355,-147.85,70.5,2.2,ml,"55 km E of Cantwell, Alaska",earthquake
+av94065053,2026-02-28T18:28:00.910Z,58.1725,-155.35916666667,2.26,-0.14,ml,"86 km NW of Karluk, Alaska",earthquake
+ci41406568,2026-02-28T18:26:27.650Z,33.529166666667,-116.733,3.45,0.64,ml,"6 km WSW of Anza, CA",earthquake
+av94065038,2026-02-28T18:20:06.960Z,60.008666666667,-153.11233333333,-0.14,-0.9,ml,"60 km ENE of Pedro Bay, Alaska",earthquake
+nn00911393,2026-02-28T18:20:03.011Z,38.473,-116.5652,10.6924,1.6,ml,"73 km NE of Tonopah, Nevada",earthquake
+nn00911389,2026-02-28T18:17:19.472Z,38.4441,-116.5187,10.4996,3.33,ml,"75 km ENE of Tonopah, Nevada",earthquake
+ok2026edji,2026-02-28T18:15:57.820Z,34.40433333,-97.42433333,4.55,1.61,ml,"9 km ESE of Ratliff City, Oklahoma",earthquake
+nn00911383,2026-02-28T18:14:14.452Z,38.4413,-116.5238,11.0251,3.11,ml,"74 km ENE of Tonopah, Nevada",earthquake
+us7000s2p0,2026-02-28T18:07:17.314Z,53.4371,-165.7525,30.962,2.3,ml,"70 km SE of Unalaska, Alaska",earthquake
+ci41406544,2026-02-28T18:04:28.220Z,33.246166666667,-116.802,11.52,0.73,ml,"4 km W of Lake Henshaw, CA",earthquake
+ok2026edis,2026-02-28T17:57:19.469Z,35.61916667,-98.03683333,5.58,1.35,ml,"7 km ENE of Calumet, Oklahoma",earthquake
+nc75320282,2026-02-28T17:51:15.960Z,39.4925,-122.00733333333,26.89,2.09,md,"16 km ESE of Willows, CA",earthquake
+aka2026edvnra,2026-02-28T17:48:20.061Z,61.067,-148.437,0,1.4,ml,"35 km NNE of Whittier, Alaska",ice quake
+ok2026edik,2026-02-28T17:47:26.710Z,35.04233333,-97.93533333,10.49,0.82,ml,"1 km S of Chickasha, Oklahoma",earthquake
+nn00911382,2026-02-28T17:47:07.549Z,38.5065,-116.4263,0.9302,1.55,ml,"85 km NE of Tonopah, Nevada",earthquake
+tx2026edvmnc,2026-02-28T17:47:00.166Z,32.352,-102.064,9.0576,0.6,ml,"35 km NW of Stanton, Texas",earthquake
+nc75320272,2026-02-28T17:44:42.210Z,38.835998535156,-122.80117034912,2.1900000572205,0.24,md,"7 km WNW of Cobb, CA",earthquake
+ok2026edig,2026-02-28T17:43:18.000Z,34.413,-97.434,4.39,1.57,ml,"8 km ESE of Ratliff City, Oklahoma",earthquake
+nn00911381,2026-02-28T17:35:26.656Z,38.5227,-116.4097,7.3602,1.53,ml,"87 km NE of Tonopah, Nevada",earthquake
+ci41406512,2026-02-28T17:29:17.400Z,33.152166666667,-116.53166666667,6.65,0.45,ml,"10 km NE of Julian, CA",earthquake
+ci41406504,2026-02-28T17:25:54.000Z,33.353333333333,-116.80383333333,3.12,0.4,ml,"6 km E of Palomar Observatory, CA",earthquake
+nn00911379,2026-02-28T17:22:47.632Z,38.5201,-116.4177,0.8159,1.63,ml,"87 km NE of Tonopah, Nevada",earthquake
+us7000s135,2026-02-28T17:22:22.401Z,5.0219,125.9332,101.33,5.3,mww,"67 km SE of Sarangani, Philippines",earthquake
+aka2026edupkg,2026-02-28T17:20:09.543Z,60.615,-139.808,2.8,1.7,ml,"119 km N of Yakutat, Alaska",earthquake
+ci41406496,2026-02-28T17:15:19.070Z,33.245,-116.8065,12.1,0.58,ml,"4 km W of Lake Henshaw, CA",earthquake
+nc75320267,2026-02-28T17:13:47.980Z,37.333,-122.10983333333,6.53,0.11,md,"2 km SSW of Loyola, CA",earthquake
+nc75320257,2026-02-28T17:12:18.300Z,38.830333709717,-122.81632995606,1.75,1.87,md,"8 km NW of The Geysers, CA",earthquake
+us7000s132,2026-02-28T17:11:55.916Z,9.4775,-81.832,10,5,mww,"33 km N of Kusapín, Panama",earthquake
+nc75320252,2026-02-28T17:10:36.860Z,40.2965,-124.465,10.83,1.72,md,"16 km WSW of Petrolia, CA",earthquake
+nc75320247,2026-02-28T17:02:44.910Z,38.823333740234,-122.76499938965,2.0999999046326,0.8,md,"4 km W of Cobb, CA",earthquake
+ok2026edgx,2026-02-28T17:02:27.519Z,34.42166667,-97.45333333,5.29,2.4,ml,"5 km ESE of Ratliff City, Oklahoma",earthquake
+aka2026edtxgj,2026-02-28T16:59:06.170Z,60.595,-139.961,11.7,1.7,ml,"117 km N of Yakutat, Alaska",earthquake
+aka2026edtsvh,2026-02-28T16:53:59.108Z,62.921,-149.444,16.8,1.3,ml,"58 km SSW of Cantwell, Alaska",earthquake
+ci41406472,2026-02-28T16:53:45.850Z,33.528166666667,-116.73416666667,3.99,0.69,ml,"6 km WSW of Anza, CA",earthquake
+nn00911372,2026-02-28T16:52:27.698Z,38.4523,-116.5466,6.6798,2.77,ml,"73 km NE of Tonopah, Nevada",earthquake
+ok2026edgn,2026-02-28T16:51:01.110Z,34.35266667,-97.4075,10.83,1.39,ml,"14 km SE of Ratliff City, Oklahoma",earthquake
+aka2026edtpxh,2026-02-28T16:50:35.718Z,61.428,-141.192,6.5,2.4,ml,"92 km E of McCarthy, Alaska",earthquake
+tx2026edtmjo,2026-02-28T16:46:57.242Z,32.107,-101.896,8.1787,1.1,ml,"10 km WSW of Stanton, Texas",earthquake
+us6000sfwe,2026-02-28T16:42:55.065Z,-11.2728,166.2748,95.352,4.4,mb,"79 km SE of Lata, Solomon Islands",earthquake
+av94064868,2026-02-28T16:42:38.720Z,58.4555,-154.8795,4.24,-0.41,ml,"101 km NNW of Karluk, Alaska",earthquake
+aka2026edtjal,2026-02-28T16:42:37.777Z,60.433,-139.433,3.6,1.8,ml,"100 km N of Yakutat, Alaska",earthquake
+uw62229281,2026-02-28T16:40:57.000Z,46.840166666667,-121.94333333333,5,0.13,ml,"11 km NE of Ashford, Washington",earthquake
+nn00911369,2026-02-28T16:33:38.874Z,38.3666,-116.6915,0.0094,1.81,ml,"57 km NE of Tonopah, Nevada",earthquake
+nn00911368,2026-02-28T16:28:40.366Z,38.4927,-116.5012,8.389,1.62,ml,"79 km NE of Tonopah, Nevada",earthquake
+aka2026edswov,2026-02-28T16:28:09.854Z,60.528,-151.019,18.7,1.7,ml,"3 km E of Ridgeway, Alaska",earthquake
+nc75320237,2026-02-28T16:27:59.480Z,39.5885,-123.41566666667,7.93,1.45,md,"12 km SSE of Laytonville, CA",earthquake
+av94064843,2026-02-28T16:26:59.540Z,60.014166666667,-153.10466666667,-1.86,-1.13,ml,"61 km ENE of Pedro Bay, Alaska",earthquake
+hv74910966,2026-02-28T16:26:18.700Z,19.615333333333,-155.95383333333,26.36,1.92,ml,"0 km SW of Hōlualoa, Hawaii",earthquake
+us7000s12u,2026-02-28T16:22:26.480Z,-24.0864,-67.1826,214.318,4.3,mb,"88 km W of San Antonio de los Cobres, Argentina",earthquake
+aka2026edsjrd,2026-02-28T16:13:10.762Z,61.701,-148.104,16.9,1.3,ml,"21 km ESE of Chickaloon, Alaska",earthquake
+ci41406432,2026-02-28T16:12:56.730Z,33.149166666667,-116.53733333333,5.93,0.49,ml,"10 km NE of Julian, CA",earthquake
+nn00911366,2026-02-28T16:07:08.129Z,38.4823,-116.5019,9.0677,1.74,ml,"78 km NE of Tonopah, Nevada",earthquake
+aka2026edsdlc,2026-02-28T16:05:57.247Z,61.373,-150.959,66.3,1.5,ml,"26 km NNE of Beluga, Alaska",earthquake
+nn00911365,2026-02-28T16:01:54.318Z,37.6226,-116.3504,5.2546,1.72,ml,"53 km W of Rachel, Nevada",earthquake
+us6000sfwc,2026-02-28T15:56:21.988Z,-4.9129,150.5755,208.068,4,mb,"85 km NE of Kimbe, Papua New Guinea",earthquake
+aka2026edrudy,2026-02-28T15:55:11.196Z,59.98,-152.612,99.7,2.5,ml,"49 km WNW of Anchor Point, Alaska",earthquake
+aka2026edrtuj,2026-02-28T15:54:46.299Z,60.514,-139.635,6.8,1.7,ml,"107 km N of Yakutat, Alaska",earthquake
+us7000s1v1,2026-02-28T15:54:10.967Z,47.5073,-70.1228,19.373,1.6,ml,"16 km S of La Malbaie, Canada",earthquake
+ok2026edeq,2026-02-28T15:53:58.920Z,34.39566667,-97.42216667,4.94,1.55,ml,"9 km SE of Ratliff City, Oklahoma",earthquake
+nn00911363,2026-02-28T15:52:00.309Z,38.3522,-116.7633,4.9688,1.71,ml,"51 km NE of Tonopah, Nevada",earthquake
+us7000s12n,2026-02-28T15:49:50.672Z,24.3514,121.8535,12.343,4.3,mb,"46 km SSE of Yilan, Taiwan",earthquake
+nn00911361,2026-02-28T15:44:59.408Z,38.4567,-116.5543,9.1656,2.08,ml,"73 km NE of Tonopah, Nevada",earthquake
+nc75320222,2026-02-28T15:44:05.580Z,38.790668487549,-122.73699951172,1.7300000190735,0.73,md,"2 km NE of The Geysers, CA",earthquake
+ci41406416,2026-02-28T15:43:58.680Z,33.6485,-116.7635,10.48,0.68,ml,"11 km SSW of Idyllwild, CA",earthquake
+us7000s12l,2026-02-28T15:38:33.750Z,36.3409,70.7225,115.253,4.2,mb,"58 km S of Jurm, Afghanistan",earthquake
+nc75320217,2026-02-28T15:35:54.660Z,36.943,-121.42283333333,10.12,0.8,md,"11 km NNW of Hollister, CA",earthquake
+aka2026edrcay,2026-02-28T15:34:13.469Z,60.846,-146.457,17.7,1.6,ml,"12 km E of Tatitlek, Alaska",earthquake
+aka2026edrais,2026-02-28T15:32:11.530Z,60.491,-139.521,3.7,1.6,ml,"105 km N of Yakutat, Alaska",earthquake
+us6000sfwa,2026-02-28T15:30:48.234Z,-18.8246,-177.8416,539.012,4,mb,Fiji region,earthquake
+us6000sfwb,2026-02-28T15:30:04.064Z,-0.2113,126.6711,88.749,4,mb,"100 km WNW of Labuha, Indonesia",earthquake
+ci41406400,2026-02-28T15:21:17.460Z,33.645833333333,-116.76066666667,10.43,0.49,ml,"11 km SSW of Idyllwild, CA",earthquake
+aka2026edqjms,2026-02-28T15:12:38.784Z,60.507,-139.648,1.3,1.7,ml,"107 km N of Yakutat, Alaska",earthquake
+us7000s12k,2026-02-28T15:06:14.099Z,18.8828,145.6435,236.95,4.4,mb,"Pagan region, Northern Mariana Islands",earthquake
+tx2026edpxbh,2026-02-28T14:58:12.055Z,31.581,-104.177,7.4841,1.7,ml,"46 km NW of Toyah, Texas",earthquake
+aka2026edptlx,2026-02-28T14:54:02.282Z,63.018,-149.144,8.2,1.2,ml,"42 km SSW of Cantwell, Alaska",earthquake
+nc75320207,2026-02-28T14:46:09.700Z,38.830665588379,-122.81632995606,1.8999999761581,0.84,md,"8 km NW of The Geysers, CA",earthquake
+av94064713,2026-02-28T14:42:53.050Z,60.005833333333,-153.0425,2.68,-1.01,ml,"64 km ENE of Pedro Bay, Alaska",earthquake
+ok2026edcg,2026-02-28T14:41:01.710Z,34.42816667,-97.46333333,3.7,1.56,ml,"4 km ESE of Ratliff City, Oklahoma",earthquake
+tx2026edphux,2026-02-28T14:40:46.435Z,32.119,-101.918,8.1299,2.4,ml,"12 km W of Stanton, Texas",earthquake
+nn00911358,2026-02-28T14:39:25.722Z,38.3309,-116.8099,3.9721,1.81,ml,"47 km NE of Tonopah, Nevada",earthquake
+ok2026edce,2026-02-28T14:38:29.690Z,34.4145,-97.45683333,5.54,1.59,ml,"6 km SE of Ratliff City, Oklahoma",earthquake
+aka2026edpclb,2026-02-28T14:34:16.600Z,60.432,-142.171,23.8,1.2,ml,"118 km SSE of McCarthy, Alaska",earthquake
+tx2026edozqm,2026-02-28T14:31:01.557Z,31.655,-104.431,5.4333,2.2,ml,"57 km S of Whites City, New Mexico",earthquake
+av94064683,2026-02-28T14:24:07.320Z,59.954,-153.24933333333,7.9,-0.79,ml,"51 km ENE of Pedro Bay, Alaska",earthquake
+nc75320202,2026-02-28T14:23:27.360Z,38.839000701904,-122.83782958984,1.3500000238419,0.49,md,"10 km NW of The Geysers, CA",earthquake
+ci41406352,2026-02-28T14:16:51.350Z,34.252,-116.90383333333,10.87,0.69,ml,"1 km NE of Big Bear Lake, CA",earthquake
+aka2026edolrm,2026-02-28T14:14:49.448Z,60.246,-151.579,62.9,1.6,ml,"10 km W of Clam Gulch, Alaska",earthquake
+nc75320197,2026-02-28T14:13:42.870Z,38.838832855225,-122.80599975586,1.8700000047684,1.04,md,"7 km WNW of Cobb, CA",earthquake
+nc75320192,2026-02-28T14:12:17.010Z,35.559,-120.86066666667,6.36,0.78,md,"13 km NNE of Cayucos, CA",earthquake
+nc75320187,2026-02-28T14:11:24.380Z,39.589,-123.4145,8.24,2.24,md,"12 km SSE of Laytonville, CA",earthquake
+av94064658,2026-02-28T14:10:18.670Z,58.275333333333,-154.98816666667,2.84,0.26,ml,"84 km NNW of Karluk, Alaska",earthquake
+aka2026edogyj,2026-02-28T14:09:54.054Z,60.03,-152.842,113.3,1.9,ml,"62 km W of Happy Valley, Alaska",earthquake
+aka2026edofek,2026-02-28T14:07:16.699Z,61.77,-151.593,78.5,1.5,ml,"26 km SSW of Skwentna, Alaska",earthquake
+us7000s12j,2026-02-28T14:04:29.684Z,-5.4936,150.1246,148.493,4.5,mb,"6 km NNW of Kimbe, Papua New Guinea",earthquake
+us7000s12d,2026-02-28T14:04:19.714Z,60.392,-140.1352,5,2.8,ml,"96 km NNW of Yakutat, Alaska",earthquake
+us6000sfw8,2026-02-28T13:53:30.877Z,-20.0457,-177.5815,539.433,4.3,mb,"268 km WNW of Houma, Tonga",earthquake
+uu80006463,2026-02-28T13:53:18.430Z,38.292,-112.54883333333,8.95,0.3,md,"8 km ENE of Beaver, Utah",earthquake
+aka2026ednpbg,2026-02-28T13:49:21.709Z,59.398,-154.311,10.8,2,ml,"20 km SSE of Pope-Vannoy Landing, Alaska",earthquake
+aka2026ednlfz,2026-02-28T13:44:08.129Z,62.211,-150.226,0.1,1.8,ml,"11 km S of Trapper Creek, Alaska",earthquake
+ci41406344,2026-02-28T13:36:31.650Z,33.246,-116.805,11.69,-0.08,ml,"4 km W of Lake Henshaw, CA",earthquake
+aka2026edmznz,2026-02-28T13:30:34.311Z,60.147,-152.284,86.2,1.5,ml,"35 km WNW of Ninilchik, Alaska",earthquake
+nc75320177,2026-02-28T13:28:47.810Z,40.782333333333,-122.11816666667,10.76,1.36,md,"15 km W of Round Mountain, CA",earthquake
+nc75320172,2026-02-28T13:23:32.790Z,37.364666666667,-122.2815,3.93,0.77,md,"5 km WSW of Portola Valley, CA",earthquake
+pr71508783,2026-02-28T13:15:03.310Z,17.918833333333,-66.860333333333,10.24,2.05,md,"7 km SSE of Maria Antonia, Puerto Rico",earthquake
+aka2026edmlhm,2026-02-28T13:14:02.494Z,60.913,-151.085,26.4,1.6,ml,"17 km S of Tyonek, Alaska",earthquake
+av94064603,2026-02-28T13:13:01.920Z,58.371333333333,-154.9635,4.05,-0.26,ml,"94 km NNW of Karluk, Alaska",earthquake
+nn00911354,2026-02-28T13:10:12.083Z,38.495,-116.4712,0.0541,1.63,ml,"81 km NE of Tonopah, Nevada",earthquake
+ci10227702,2026-02-28T13:09:27.830Z,33.245166666667,-116.8,11.88,0.76,ml,"3 km W of Lake Henshaw, CA",earthquake
+ci41406336,2026-02-28T13:09:17.580Z,33.247333333333,-116.80966666667,9.94,1.05,ml,"4 km W of Lake Henshaw, CA",earthquake
+ci41406328,2026-02-28T13:08:26.340Z,33.648666666667,-116.76133333333,10.66,0.65,ml,"11 km SSW of Idyllwild, CA",earthquake
+nm60617946,2026-02-28T13:07:58.490Z,36.4925,-89.559666666667,8.84,1.68,md,"5 km ESE of Marston, Missouri",earthquake
+nn00911352,2026-02-28T13:07:48.593Z,38.4489,-116.5121,7.2045,2.17,ml,"75 km NE of Tonopah, Nevada",earthquake
+aka2026edmbfc,2026-02-28T13:02:29.919Z,57.826,-156.231,125,1.8,ml,"77 km ENE of Ugashik, Alaska",earthquake
+ci41406320,2026-02-28T12:59:06.090Z,33.036333333333,-116.37966666667,10.93,0.31,ml,"21 km ESE of Julian, CA",earthquake
+aka2026edlwtp,2026-02-28T12:58:31.858Z,58.683,-152.73,54.3,2,ml,"70 km N of Aleneva, Alaska",earthquake
+us7000s122,2026-02-28T12:56:59.269Z,25.3149,124.962,10,5.1,mww,"66 km NNW of Hirara, Japan",earthquake
+tx2026edluis,2026-02-28T12:54:45.044Z,31.581,-104.179,7.1637,1.8,ml,"47 km NW of Toyah, Texas",earthquake
+us6000sfwh,2026-02-28T12:54:00.772Z,47.3126,152.711,100.013,4,mb,Kuril Islands,earthquake
+us7000s120,2026-02-28T12:50:13.411Z,-23.8299,179.1454,575.276,4.4,mb,south of the Fiji Islands,earthquake
+nc75320162,2026-02-28T12:46:39.060Z,36.084,-120.2,11.13,1.81,md,"11 km NW of Avenal, CA",earthquake
+aka2026edlmvb,2026-02-28T12:45:37.800Z,60.467,-151.417,67.2,1.4,ml,"8 km NW of Kalifornsky, Alaska",earthquake
+us7000s11x,2026-02-28T12:44:32.536Z,-29.7992,-71.5936,35.272,4.2,mb,"29 km NW of Coquimbo, Chile",earthquake
+aka2026edljyq,2026-02-28T12:42:18.743Z,60.99,-150.336,21.5,1.6,ml,"20 km ENE of Point Possession, Alaska",earthquake
+aka2026edlhfe,2026-02-28T12:39:06.591Z,58.282,-154.217,78.5,1.9,ml,"80 km N of Karluk, Alaska",earthquake
+aka2026edlfue,2026-02-28T12:37:28.187Z,63.55,-147.302,0.1,1.8,ml,"82 km ESE of Denali Park, Alaska",earthquake
+nc75320157,2026-02-28T12:32:19.600Z,38.835498809815,-122.81600189209,2.0499999523163,1.05,md,"8 km W of Cobb, CA",earthquake
+aka2026edkzkp,2026-02-28T12:30:07.587Z,60.623,-140.04,11.5,1.8,ml,"121 km N of Yakutat, Alaska",earthquake
+uw62229276,2026-02-28T12:24:26.440Z,46.667,-121.66333333333,4.72,1.02,ml,"6 km N of Packwood, Washington",earthquake
+ci41406312,2026-02-28T12:21:57.360Z,34.528333333333,-118.898,15.58,0.84,ml,"14 km N of Fillmore, CA",earthquake
+nn00911350,2026-02-28T12:21:25.586Z,38.536,-118.1562,11.5585,1.77,ml,"16 km NNW of Mina, Nevada",earthquake
+ok2026ecxo,2026-02-28T12:19:19.250Z,34.43383333,-97.46733333,4.43,1.38,ml,"4 km ESE of Ratliff City, Oklahoma",earthquake
+nn00911348,2026-02-28T12:18:01.723Z,38.5274,-118.2438,0.0324,1.8,ml,"19 km NW of Mina, Nevada",earthquake
+aka2026edkmhv,2026-02-28T12:14:51.733Z,63.575,-147.46,1.5,1.4,ml,"74 km ESE of Denali Park, Alaska",earthquake
+aka2026edkknc,2026-02-28T12:12:47.285Z,62.29,-152.146,18.5,1.4,ml,"51 km NW of Skwentna, Alaska",earthquake
+uw62229271,2026-02-28T12:11:36.970Z,46.8525,-121.76166666667,0.94,1.06,ml,"23 km ENE of Ashford, Washington",earthquake
+aka2026edkjgm,2026-02-28T12:11:20.581Z,61.637,-146.476,39.7,1.5,ml,"42 km SSE of Nelchina, Alaska",earthquake
+ci41406304,2026-02-28T11:53:09.590Z,33.914166666667,-116.904,9.09,0.66,ml,"3 km WSW of Banning, CA",earthquake
+ci41406296,2026-02-28T11:50:46.750Z,33.258333333333,-116.42383333333,3.37,0.42,ml,"5 km W of Borrego Springs, CA",earthquake
+ok2026ecwp,2026-02-28T11:49:39.530Z,34.3935,-97.41833333,4.58,1.51,ml,"10 km SE of Ratliff City, Oklahoma",earthquake
+tx2026edjosk,2026-02-28T11:47:30.154Z,32.295,-101.583,6.8604,0.6,ml,"10 km WNW of Big Spring, Texas",earthquake
+ok2026ecwm,2026-02-28T11:46:42.170Z,34.40683333,-97.44333333,4.29,1.16,ml,"7 km SE of Ratliff City, Oklahoma",earthquake
+nn00911347,2026-02-28T11:42:12.061Z,38.5306,-116.39,6.3963,1.64,ml,"89 km NE of Tonopah, Nevada",earthquake
+ok2026ecwd,2026-02-28T11:35:36.859Z,34.40683333,-97.44233333,5.8,1.84,ml,"7 km SE of Ratliff City, Oklahoma",earthquake
+aka2026edjblh,2026-02-28T11:32:04.673Z,63.183,-147.654,3.7,1.3,ml,"69 km ESE of Cantwell, Alaska",earthquake
+aka2026edjabh,2026-02-28T11:30:28.867Z,61.294,-149.796,21.7,1.8,ml,"9 km WNW of Elmendorf Air Force Base, Alaska",earthquake
+nc75320147,2026-02-28T11:26:53.850Z,40.292666666667,-124.47433333333,9.82,2.22,md,"16 km WSW of Petrolia, CA",earthquake
+us7000s11m,2026-02-28T11:18:50.711Z,25.0874,125.1664,10,4.6,mb,"34 km NNW of Hirara, Japan",earthquake
+aka2026ediovm,2026-02-28T11:17:28.960Z,61.619,-150.036,30.7,1.5,ml,"11 km W of Houston, Alaska",earthquake
+ci41406288,2026-02-28T11:16:46.930Z,33.584,-116.73633333333,11.68,0.61,ml,"7 km WNW of Anza, CA",earthquake
+us7000s11l,2026-02-28T11:13:43.937Z,-21.0519,-178.5403,551.399,4.4,mb,Fiji region,earthquake
+tx2026edigyl,2026-02-28T11:08:18.844Z,31.79,-102.001,5.835,0.6,ml,"24 km SSE of Midland, Texas",earthquake
+us7000s11k,2026-02-28T11:04:40.271Z,-17.7997,-178.6896,561.304,4.2,mb,"213 km E of Levuka, Fiji",earthquake
+us6000sfw5,2026-02-28T11:01:24.644Z,43.2897,146.0912,62.378,4.3,mb,"42 km E of Nemuro, Japan",earthquake
+ci41406280,2026-02-28T11:00:20.830Z,34.035,-116.92,13.58,0.62,ml,"11 km E of Yucaipa, CA",earthquake
+aka2026edhzpx,2026-02-28T10:59:48.216Z,63.176,-151.278,3.5,1.6,ml,"46 km SSE of Denali National Park, Alaska",earthquake
+uw62229261,2026-02-28T10:56:19.290Z,47.7855,-122.88416666667,18.6,0.31,ml,"4 km S of Quilcene, Washington",earthquake
+aka2026edhwkn,2026-02-28T10:56:04.710Z,59.819,-152.827,101.5,1.6,ml,"56 km W of Anchor Point, Alaska",earthquake
+ci41406272,2026-02-28T10:55:09.710Z,35.9035,-117.69516666667,3.89,0.89,ml,"19 km E of Little Lake, CA",earthquake
+aka2026edhqdg,2026-02-28T10:48:46.440Z,60.568,-139.924,3,1.7,ml,"114 km N of Yakutat, Alaska",earthquake
+hv74910871,2026-02-28T10:47:01.600Z,19.156499862671,-155.48750305176,30.930000305176,1.82,md,"5 km S of Pāhala, Hawaii",earthquake
+aka2026edhnox,2026-02-28T10:45:49.528Z,61.91,-150.254,4.6,1.6,ml,"21 km NNW of Willow, Alaska",earthquake
+us7000s11g,2026-02-28T10:40:53.926Z,14.0059,-93.0225,10,4.5,mb,"102 km SW of Puerto Madero, Mexico",earthquake
+ci41406264,2026-02-28T10:37:12.510Z,35.874833333333,-117.71683333333,9.13,0.96,ml,"18 km ESE of Little Lake, CA",earthquake
+nn00911342,2026-02-28T10:37:03.381Z,38.4426,-116.5488,5.4695,2.21,ml,"72 km NE of Tonopah, Nevada",earthquake
+aka2026edhbhk,2026-02-28T10:31:37.606Z,59.757,-153.305,121.7,2.2,ml,"45 km E of Pedro Bay, Alaska",earthquake
+us7000s11c,2026-02-28T10:21:25.083Z,13.5616,-89.9442,73.755,4.6,mb,"13 km WSW of Acajutla, El Salvador",earthquake
+nm60617936,2026-02-28T10:18:40.510Z,36.4955,-89.559666666667,8.39,2.19,md,"5 km ESE of Marston, Missouri",earthquake
+aka2026edgoby,2026-02-28T10:16:15.325Z,60.765,-150.698,45.4,1.9,ml,"17 km S of Point Possession, Alaska",earthquake
+ci41406248,2026-02-28T10:10:00.620Z,35.875666666667,-117.71333333333,9.15,0.56,ml,"19 km ESE of Little Lake, CA",earthquake
+pr71508758,2026-02-28T10:09:22.910Z,18.0935,-66.047666666667,26.36,1.81,md,"7 km ESE of G. L. Garcia, Puerto Rico",earthquake
+nn00911341,2026-02-28T10:07:26.761Z,38.4506,-116.5593,10.4994,1.67,ml,"72 km NE of Tonopah, Nevada",earthquake
+nc75320142,2026-02-28T10:06:33.570Z,38.817333333333,-122.75933333333,2.06,0.42,md,"3 km W of Cobb, CA",earthquake
+aka2026edgeye,2026-02-28T10:05:38.658Z,60.364,-139.339,1.6,1.8,ml,"93 km NNE of Yakutat, Alaska",earthquake
+ci41406240,2026-02-28T09:58:53.760Z,33.251,-116.80166666667,11.71,0.45,ml,"4 km WNW of Lake Henshaw, CA",earthquake
+ci10227662,2026-02-28T09:58:50.840Z,33.834666666667,-116.9795,13.32,-0.31,ml,"6 km NNW of San Jacinto, CA",earthquake
+aka2026edfuul,2026-02-28T09:53:52.045Z,61.421,-151.99,98.8,1.6,ml,"57 km WNW of Beluga, Alaska",earthquake
+nn00911340,2026-02-28T09:46:15.159Z,38.514,-116.4071,0,1.65,ml,"87 km NE of Tonopah, Nevada",earthquake
+aka2026edfnua,2026-02-28T09:45:42.750Z,63.519,-148.811,0.8,1.4,ml,"15 km NNE of Cantwell, Alaska",earthquake
+ci41406232,2026-02-28T09:39:09.670Z,34.01,-117.18333333333,14.97,1.18,ml,"5 km S of Redlands, CA",earthquake
+nc75320137,2026-02-28T09:28:39.280Z,38.462333333333,-122.66433333333,9.62,1.1,md,"4 km ENE of Santa Rosa, CA",earthquake
+tx2026edexlz,2026-02-28T09:28:30.137Z,31.601,-104.192,6.0999,2.3,ml,"49 km NW of Toyah, Texas",earthquake
+ci41406224,2026-02-28T09:24:05.290Z,33.338666666667,-116.81916666667,5.18,0.84,ml,"5 km ESE of Palomar Observatory, CA",earthquake
+tx2026edersp,2026-02-28T09:20:03.379Z,31.942,-103.378,5.8948,1.2,ml,"25 km SW of Jal, New Mexico",earthquake
+aka2026edemgu,2026-02-28T09:13:48.342Z,60.495,-139.837,1,2,ml,"105 km N of Yakutat, Alaska",earthquake
+nn00911339,2026-02-28T09:03:41.377Z,38.4427,-116.5183,9.0639,1.61,ml,"74 km ENE of Tonopah, Nevada",earthquake
+us7000s2ne,2026-02-28T08:56:46.917Z,52.4771,-169.6289,10,3,ml,"73 km SW of Nikolski, Alaska",earthquake
+aka2026eddwda,2026-02-28T08:55:03.045Z,60.598,-149.982,32.5,1.6,ml,"14 km NW of Cooper Landing, Alaska",earthquake
+us7000s110,2026-02-28T08:54:50.591Z,14.0784,-93.026,10,4.3,mb,"96 km SW of Puerto Madero, Mexico",earthquake
+nn00911337,2026-02-28T08:52:08.557Z,38.4897,-116.4732,0.0489,1.64,ml,"81 km NE of Tonopah, Nevada",earthquake
+aka2026eddniw,2026-02-28T08:44:52.542Z,64.408,-148.315,7.1,1.2,ml,"41 km ESE of Nenana, Alaska",earthquake
+nc75320132,2026-02-28T08:43:45.430Z,38.805332183838,-122.77850341797,0.8299999833107,0.75,md,"4 km NNW of The Geysers, CA",earthquake
+nc75320127,2026-02-28T08:43:27.270Z,38.822666168213,-122.76516723633,2.039999961853,0.31,md,"4 km W of Cobb, CA",earthquake
+us6000sfw3,2026-02-28T08:42:19.419Z,28.4031,142.0768,32.665,4.5,mb,"Bonin Islands, Japan region",earthquake
+nn00911336,2026-02-28T08:41:58.446Z,38.4253,-116.4924,9.0863,1.5,ml,"75 km ENE of Tonopah, Nevada",earthquake
+aka2026eddjve,2026-02-28T08:40:45.043Z,60.182,-152.589,107.2,1.3,ml,"53 km WNW of Ninilchik, Alaska",earthquake
+nn00911335,2026-02-28T08:37:09.246Z,38.4262,-116.4894,10.3611,1.87,ml,"76 km ENE of Tonopah, Nevada",earthquake
+us7000s10v,2026-02-28T08:29:09.174Z,-23.9274,-66.711,195.229,4.3,mb,"51 km NW of San Antonio de los Cobres, Argentina",earthquake
+ci41406208,2026-02-28T08:21:02.360Z,33.268,-116.425,4.14,0.94,ml,"5 km WNW of Borrego Springs, CA",earthquake
+nn00911333,2026-02-28T08:14:49.530Z,38.513,-116.4527,3.7546,1.69,ml,"84 km NE of Tonopah, Nevada",earthquake
+av94064308,2026-02-28T08:08:46.550Z,58.1785,-155.33133333333,0.42,-0.51,ml,"85 km NW of Karluk, Alaska",earthquake
+nn00911331,2026-02-28T08:01:08.078Z,38.431,-116.5447,10.9138,1.57,ml,"72 km ENE of Tonopah, Nevada",earthquake
+tx2026edcbnr,2026-02-28T08:01:01.393Z,32.107,-101.922,9.2529,0.6,ml,"12 km W of Stanton, Texas",earthquake
+nc75320117,2026-02-28T07:59:05.740Z,37.763,-121.932,7.09,1.18,md,"4 km ESE of San Ramon, CA",earthquake
+tx2026edbmdt,2026-02-28T07:43:04.472Z,31.947,-103.377,6.6382,1.2,ml,"25 km SW of Jal, New Mexico",earthquake
+uw62229251,2026-02-28T07:39:28.430Z,45.8105,-121.89033333333,10.2,1.56,ml,"10 km NNW of Carson, Washington",earthquake
+nn00911330,2026-02-28T07:29:34.467Z,38.4512,-116.5242,9.1251,1.87,ml,"75 km NE of Tonopah, Nevada",earthquake
+ok2026ecoa,2026-02-28T07:29:22.210Z,34.4215,-97.45566667,5.85,1.13,ml,"5 km ESE of Ratliff City, Oklahoma",earthquake
+hv74910791,2026-02-28T07:26:48.100Z,19.407333374023,-155.38949584961,-1.2799999713898,1.78,ml,"16 km WSW of Volcano, Hawaii",earthquake
+ci41406200,2026-02-28T07:26:16.890Z,33.887666666667,-116.16516666667,5.38,0.77,ml,"19 km NNE of Indio, CA",earthquake
+nc75320112,2026-02-28T07:24:16.420Z,38.762,-122.7215,2.52,0.4,md,"3 km WSW of Anderson Springs, CA",earthquake
+ci41406192,2026-02-28T07:22:44.940Z,35.330833333333,-117.80983333333,6.49,0.79,ml,"17 km WSW of Johannesburg, CA",earthquake
+aka2026edasrv,2026-02-28T07:20:31.580Z,59.876,-150.611,44.1,1.4,ml,"19 km E of Fox River, Alaska",earthquake
+us6000sfw1,2026-02-28T07:20:05.628Z,-14.3072,66.2267,10,4.5,mb,Mid-Indian Ridge,earthquake
+pr71508738,2026-02-28T07:17:16.420Z,19.316666666667,-66.749333333333,45.18,3.44,md,"92 km N of Hatillo, Puerto Rico",earthquake
+ok2026ecnp,2026-02-28T07:17:01.090Z,34.6185,-95.9455,23,1.34,ml,"8 km ESE of Wardville, Oklahoma",earthquake
+uu80130801,2026-02-28T07:09:08.440Z,44.62,-110.66266666667,6.76,0.84,ml,"35 km E of West Yellowstone, Montana",earthquake
+ci41406184,2026-02-28T07:08:36.000Z,32.699,-115.52816666667,4.39,1.79,ml,"4 km NW of Calexico, CA",earthquake
+tx2026edahqe,2026-02-28T07:07:48.748Z,32.028,-102.22,5.7373,0.8,ml,"13 km WNW of Midland, Texas",earthquake
+ci41406176,2026-02-28T07:06:48.660Z,33.248,-116.8025,11.8,0.53,ml,"4 km W of Lake Henshaw, CA",earthquake
+nn00911329,2026-02-28T07:01:19.904Z,38.3544,-116.7464,10.2932,1.53,ml,"53 km NE of Tonopah, Nevada",earthquake
+aka2026eczzrv,2026-02-28T06:58:31.161Z,58.194,-137.9,0.7,2.8,ml,"91 km W of Elfin Cove, Alaska",earthquake
+av94064263,2026-02-28T06:57:22.190Z,60.09,-153.03633333333,6.87,-0.3,ml,"68 km ENE of Pedro Bay, Alaska",earthquake
+ci41406160,2026-02-28T06:52:18.350Z,33.246,-116.804,12.12,0.48,ml,"4 km W of Lake Henshaw, CA",earthquake
+us7000s10h,2026-02-28T06:52:14.334Z,1.0444,120.9122,67.538,5.1,mb,"245 km NNE of Palu, Indonesia",earthquake
+tx2026ecztzj,2026-02-28T06:52:07.089Z,32.016,-102.225,4.834,0.4,ml,"14 km W of Midland, Texas",earthquake
+ok2026ecmq,2026-02-28T06:48:23.910Z,34.4025,-97.433,5.76,1.12,ml,"8 km SE of Ratliff City, Oklahoma",earthquake
+nc75320107,2026-02-28T06:47:11.560Z,38.828666687012,-122.85166931152,1.5599999427795,0.78,md,"10 km NW of The Geysers, CA",earthquake
+ci41406152,2026-02-28T06:39:22.820Z,36.020333333333,-117.77483333333,1.21,0.85,ml,"15 km NE of Little Lake, CA",earthquake
+ci10227814,2026-02-28T06:39:01.010Z,36.0085,-117.80316666667,0.7,0.56,ml,"12 km NE of Little Lake, CA",earthquake
+ci41406144,2026-02-28T06:38:43.380Z,36.0075,-117.80333333333,1.52,0.85,ml,"12 km NE of Little Lake, CA",earthquake
+us7000s106,2026-02-28T06:23:27.314Z,-5.463,151.8942,52.402,5.4,mww,"130 km SSW of Kokopo, Papua New Guinea",earthquake
+aka2026ecyuar,2026-02-28T06:21:45.621Z,62.202,-148.489,18.2,1.3,ml,"45 km N of Chickaloon, Alaska",earthquake
+nc75320087,2026-02-28T06:09:04.490Z,37.5975,-122.46066666667,8.47,1.1,md,"3 km SE of Pacifica, CA",earthquake
+pr71508723,2026-02-28T06:04:37.980Z,18.964833333333,-68.358833333333,17.32,3.41,md,"42 km N of Punta Cana, Dominican Republic",earthquake
+nc75320082,2026-02-28T05:55:14.130Z,40.215,-121.09633333333,8.05,1.64,md,"3 km SSW of East Shore, CA",earthquake
+ci41406128,2026-02-28T05:55:10.100Z,33.519666666667,-116.74266666667,4.6,0.35,ml,"8 km WSW of Anza, CA",earthquake
+us7000s103,2026-02-28T05:53:53.977Z,25.2126,125.0479,10,5.3,mww,"52 km NNW of Hirara, Japan",earthquake
+nc75320077,2026-02-28T05:45:30.250Z,38.802833557129,-122.80583190918,1.0700000524521,0.73,md,"5 km WNW of The Geysers, CA",earthquake
+nc75320072,2026-02-28T05:45:22.190Z,38.803333282471,-122.80683135986,1.3500000238419,0.98,md,"5 km WNW of The Geysers, CA",earthquake
+aka2026ecxkyl,2026-02-28T05:40:56.146Z,60.282,-152.479,111.2,2,ml,"51 km WNW of Ninilchik, Alaska",earthquake
+tx2026ecxhgw,2026-02-28T05:36:55.486Z,32.257,-101.937,8.3252,0.6,ml,"19 km NW of Stanton, Texas",earthquake
+us7000s0zy,2026-02-28T05:35:22.726Z,-17.9755,-178.4316,571.306,4.8,mb,"238 km E of Levuka, Fiji",earthquake
+tx2026ecxbkc,2026-02-28T05:29:58.450Z,31.669,-104.396,6.6638,1.9,ml,"56 km S of Whites City, New Mexico",earthquake
+aka2026ecxaef,2026-02-28T05:28:34.014Z,61.633,-149.958,26.8,2.2,ml,"7 km W of Houston, Alaska",earthquake
+ok2026ecjz,2026-02-28T05:27:28.239Z,34.414,-97.4485,5.63,1.25,ml,"6 km SE of Ratliff City, Oklahoma",earthquake
+aka2026ecwqnt,2026-02-28T05:17:17.039Z,60.44,-139.501,11.4,1.7,ml,"100 km N of Yakutat, Alaska",earthquake
+aka2026ecwojm,2026-02-28T05:14:52.140Z,62.366,-148.685,19.1,1.8,ml,"64 km N of Chickaloon, Alaska",earthquake
+ci41406120,2026-02-28T05:14:38.460Z,34.188,-117.769,9.34,0.64,ml,"10 km NNE of San Dimas, CA",earthquake
+ci41406112,2026-02-28T05:05:52.950Z,35.352,-117.78516666667,6.1,0.99,ml,"14 km W of Johannesburg, CA",earthquake
+tx2026ecvumz,2026-02-28T04:51:46.974Z,28.812,-99.004,7.4017,1.5,ml,"12 km SE of Pearsall, Texas",earthquake
+ok2026ecit,2026-02-28T04:50:03.629Z,36.57183333,-98.542,6.09,2.16,ml,"7 km W of Carmen, Oklahoma",earthquake
+ci41406104,2026-02-28T04:47:19.820Z,33.670333333333,-117.014,10.42,0.49,ml,"8 km ESE of Winchester, CA",earthquake
+us7000s7tw,2026-02-28T04:47:14.837Z,36.804,-104.7664,5,1.1,ml,"31 km WSW of Raton, New Mexico",earthquake
+ok2026eciq,2026-02-28T04:46:26.469Z,34.40816667,-97.44183333,5.23,1.39,ml,"7 km SE of Ratliff City, Oklahoma",earthquake
+aka2026ecvoli,2026-02-28T04:44:46.117Z,60.482,-143.025,16.4,1.2,ml,"106 km S of McCarthy, Alaska",earthquake
+aka2026ecvjug,2026-02-28T04:40:18.089Z,63.219,-145.108,3.2,1.4,ml,"29 km ENE of Paxson, Alaska",earthquake
+us6000sfvw,2026-02-28T04:37:35.936Z,-20.0705,-177.8714,560.819,4.1,mb,"294 km WNW of Houma, Tonga",earthquake
+aka2026ecvbmq,2026-02-28T04:29:45.513Z,60.503,-151.425,63.3,1.6,ml,"10 km WSW of Kenai, Alaska",earthquake
+nc75320067,2026-02-28T04:28:43.050Z,38.791831970215,-122.75416564941,0.80000001192093,0.74,md,"2 km N of The Geysers, CA",earthquake
+hv74910681,2026-02-28T04:28:41.880Z,19.307666778564,-155.15899658203,13.010000228882,1.89,md,"16 km SSE of Volcano, Hawaii",earthquake
+aka2026ecvapl,2026-02-28T04:28:37.750Z,60.106,-152.942,98.5,1.4,ml,"69 km WNW of Happy Valley, Alaska",earthquake
+ok2026echt,2026-02-28T04:20:14.359Z,34.4115,-97.4495,5.69,2.53,ml,"6 km SE of Ratliff City, Oklahoma",earthquake
+tx2026ecurrn,2026-02-28T04:18:19.718Z,32.097,-101.935,8.2275,0.8,ml,"14 km WSW of Stanton, Texas",earthquake
+aka2026ecuqrn,2026-02-28T04:17:12.571Z,60.566,-139.947,12.6,1.9,ml,"114 km N of Yakutat, Alaska",earthquake
+us7000s0zp,2026-02-28T04:15:56.350Z,3.5408,124.5421,350.457,4.4,mb,"229 km SSW of Sarangani, Philippines",earthquake
+ci41406096,2026-02-28T04:13:53.870Z,35.751666666667,-117.58433333333,5.84,0.72,ml,"16 km W of Searles Valley, CA",earthquake
+ci41406088,2026-02-28T04:08:37.560Z,35.918833333333,-117.69016666667,3.31,0.83,ml,"20 km E of Little Lake, CA",earthquake
+ci41406080,2026-02-28T04:04:25.120Z,32.432666666667,-116.90783333333,11.43,1.35,ml,"15 km SE of Tijuana, B.C., MX",earthquake
+ci41406072,2026-02-28T04:01:25.440Z,32.890166666667,-115.52016666667,5.36,1.08,ml,"7 km NE of Imperial, CA",earthquake
+hv74910661,2026-02-28T03:55:53.150Z,19.971666666667,-155.57583333333,47.79,2.46,ml,"11 km ESE of Waimea, Hawaii",earthquake
+ok2026ecgt,2026-02-28T03:49:42.570Z,34.41066667,-97.45183333,5.87,1.86,ml,"6 km SE of Ratliff City, Oklahoma",earthquake
+nc75320062,2026-02-28T03:49:26.650Z,38.808334350586,-122.79333496094,1.4299999475479,0.76,md,"5 km NW of The Geysers, CA",earthquake
+nc75320057,2026-02-28T03:46:48.820Z,38.823833465576,-122.79616546631,3.75,0.23,md,"6 km NNW of The Geysers, CA",earthquake
+aka2026ectmfm,2026-02-28T03:41:50.977Z,61.204,-150.367,53.7,2.3,ml,"25 km W of Anchorage, Alaska",earthquake
+ci41406064,2026-02-28T03:35:29.370Z,33.053333333333,-116.42216666667,10.16,0.75,ml,"17 km E of Julian, CA",earthquake
+ci41406056,2026-02-28T03:28:31.280Z,33.698833333333,-116.712,16.7,0.59,ml,"5 km S of Idyllwild, CA",earthquake
+aka2026ecszej,2026-02-28T03:26:43.299Z,59.349,-152.666,72.7,1.9,ml,"42 km W of Nanwalek, Alaska",earthquake
+uu80130796,2026-02-28T03:26:36.100Z,44.632833333333,-110.34283333333,5.17,1.38,ml,"47 km SE of Mammoth, Wyoming",earthquake
+ci41406048,2026-02-28T03:22:19.440Z,33.365833333333,-116.35666666667,11.61,0.2,ml,"12 km N of Borrego Springs, CA",earthquake
+us7000s0zg,2026-02-28T03:20:59.178Z,60.5735,-139.7018,5,2.5,ml,"114 km N of Yakutat, Alaska",earthquake
+ci41406040,2026-02-28T03:16:48.490Z,33.542,-116.40783333333,9.35,0.62,ml,"16 km SW of La Quinta, CA",earthquake
+us6000sfvu,2026-02-28T03:14:10.615Z,33.635,91.1876,10,4.5,mb,"252 km NNW of Nagqu, China",earthquake
+nc75320052,2026-02-28T03:07:31.030Z,39.2455,-123.19483333333,7.13,1.2,md,"2 km SSE of Redwood Valley, CA",earthquake
+nc75320047,2026-02-28T03:02:34.180Z,38.835166931152,-122.81733703613,1.9299999475479,1.14,md,"8 km W of Cobb, CA",earthquake
+aka2026ecsbnj,2026-02-28T02:59:16.802Z,62.108,-149.579,48.9,2.4,ml,"15 km ESE of Susitna North, Alaska",earthquake
+nc75320042,2026-02-28T02:55:27.150Z,38.819831848145,-122.84166717529,2.4700000286102,1.09,md,"9 km WNW of The Geysers, CA",earthquake
+nc75320037,2026-02-28T02:51:28.040Z,38.782333374023,-122.74333190918,-0.77999997138977,0.22,md,"1 km ENE of The Geysers, CA",earthquake
+hv74910626,2026-02-28T02:51:24.860Z,19.234333333333,-155.43616666667,0.35,1.89,ml,"5 km NE of Pāhala, Hawaii",earthquake
+nc75320032,2026-02-28T02:51:21.480Z,38.787998199463,-122.74700164795,1.6200000047684,0.74,md,"1 km NE of The Geysers, CA",earthquake
+ci41406024,2026-02-28T02:45:28.840Z,33.802833333333,-116.886,13.82,1.07,ml,"6 km N of Valle Vista, CA",earthquake
+us7000s1vx,2026-02-28T02:44:11.859Z,51.3999,-176.5804,35,3,ml,"52 km S of Adak, Alaska",earthquake
+nc75320027,2026-02-28T02:39:56.600Z,38.835666666667,-122.8175,2.19,0.37,md,"8 km W of Cobb, CA",earthquake
+nc75320022,2026-02-28T02:35:17.570Z,38.807498931885,-122.79766845703,3.420000076294,0.76,md,"5 km NW of The Geysers, CA",earthquake
+us6000sfvt,2026-02-28T02:34:49.478Z,40.7677,48.7376,10,4.4,mb,"17 km NNE of Shamakhi, Azerbaijan",earthquake
+nc75320017,2026-02-28T02:29:58.090Z,37.393833333333,-122.16316666667,5.06,0.71,md,"3 km NW of Los Altos Hills, CA",earthquake
+aka2026ecqgdp,2026-02-28T02:04:14.229Z,60.521,-139.79,0.7,2,ml,"108 km N of Yakutat, Alaska",earthquake
+aka2026ecqdnx,2026-02-28T02:01:15.306Z,61.017,-148.922,7.5,1.8,ml,"15 km ENE of Girdwood, Alaska",earthquake
+ci41405992,2026-02-28T01:57:27.210Z,32.964,-115.5645,10.85,1.84,ml,"4 km WSW of Brawley, CA",earthquake
+ci41405984,2026-02-28T01:57:14.750Z,35.9615,-117.3395,3.86,1.07,ml,"22 km N of Trona, CA",earthquake
+aka2026ecpybs,2026-02-28T01:54:54.917Z,59.534,-153.09,91.3,1.7,ml,"63 km ESE of Pedro Bay, Alaska",earthquake
+us7000s0z7,2026-02-28T01:49:20.129Z,25.2429,124.9932,10,5.1,mww,"57 km NNW of Hirara, Japan",earthquake
+aka2026ecpsqm,2026-02-28T01:48:35.637Z,60.952,-151.357,71.9,1.4,ml,"17 km SW of Tyonek, Alaska",earthquake
+tx2026ecppey,2026-02-28T01:44:36.727Z,32.086,-102.101,8.6426,0.5,ml,"10 km NNW of Midland, Texas",earthquake
+us7000s1vu,2026-02-28T01:40:11.325Z,52.4835,-169.7874,14.632,2.6,ml,"80 km SW of Nikolski, Alaska",earthquake
+nc75320002,2026-02-28T01:38:51.170Z,38.832500457764,-122.81533050537,-0.43000000715256,0.21,md,"8 km NW of The Geysers, CA",earthquake
+nc75319992,2026-02-28T01:37:23.420Z,38.833831787109,-122.81733703613,1.9800000190735,1.28,md,"8 km NW of The Geysers, CA",earthquake
+nc75319997,2026-02-28T01:35:54.100Z,39.582666666667,-123.37116666667,7.38,1.44,md,"15 km SE of Laytonville, CA",earthquake
+us7000s0yy,2026-02-28T01:33:17.254Z,60.4913,-139.586,5,2.9,ml,"105 km N of Yakutat, Alaska",earthquake
+aka2026ecpbqk,2026-02-28T01:28:52.304Z,63.176,-147.694,0.6,1.8,ml,"67 km ESE of Cantwell, Alaska",earthquake
+tx2026econmn,2026-02-28T01:15:16.699Z,31.436,-103.941,6.0999,1.8,ml,"19 km NW of Toyah, Texas",earthquake
+ci41405976,2026-02-28T01:13:23.920Z,33.033666666667,-116.41433333333,9.42,0.78,ml,"18 km ESE of Julian, CA",earthquake
+ok2026ecbo,2026-02-28T01:12:17.059Z,34.42516667,-97.45383333,4.62,1.5,ml,"5 km ESE of Ratliff City, Oklahoma",earthquake
+tx2026econfz,2026-02-28T01:12:10.038Z,32.001,-103.81,8.0353,1.3,ml,"35 km SE of Malaga, New Mexico",earthquake
+tx2026ecocph,2026-02-28T00:59:59.848Z,31.616,-104.096,6.2024,1.6,ml,"44 km NW of Toyah, Texas",earthquake
+nn00911324,2026-02-28T00:59:30.605Z,38.4861,-118.4854,2.6116,1.75,ml,"12 km ESE of Hawthorne, Nevada",earthquake
+uu80130791,2026-02-28T00:57:54.510Z,40.022166666667,-111.89516666667,7.59,0.85,md,"5 km WNW of Genola, Utah",earthquake
+ci41405960,2026-02-28T00:55:35.570Z,36.0935,-117.89416666667,5.69,0.79,ml,"7 km NE of Coso Junction, CA",earthquake
+ci41405952,2026-02-28T00:49:26.460Z,36.093833333333,-117.895,5.77,0.83,ml,"7 km NE of Coso Junction, CA",earthquake
+ci10227086,2026-02-28T00:48:56.330Z,36.086666666667,-117.89183333333,4.81,1.37,ml,"7 km NE of Coso Junction, CA",earthquake
+ci41405944,2026-02-28T00:48:39.950Z,36.094166666667,-117.89583333333,4.88,1.92,ml,"7 km NE of Coso Junction, CA",earthquake
+aka2026ecnnel,2026-02-28T00:41:55.624Z,60.873,-149.615,25.3,1.6,ml,"5 km SSE of Hope, Alaska",earthquake
+nc75319977,2026-02-28T00:38:38.420Z,38.824833333333,-122.79966666667,2.55,0.41,md,"6 km NW of The Geysers, CA",earthquake
+aka2026ecmzhc,2026-02-28T00:25:47.934Z,61.375,-145.363,26.8,2.6,ml,"32 km SSW of Tonsina, Alaska",earthquake
+ok2026ecaa,2026-02-28T00:25:03.029Z,34.2945,-97.58983333,6.19,1.92,ml,"9 km ESE of Loco, Oklahoma",earthquake
+aka2026ecmtic,2026-02-28T00:18:52.662Z,62.564,-149.442,9.8,2.6,ml,"36 km ENE of Chase, Alaska",earthquake
+aka2026ecmpdd,2026-02-28T00:13:52.563Z,57.138,-155.118,9.2,2.2,ml,"61 km WNW of Akhiok, Alaska",earthquake
+uw62229231,2026-02-28T00:07:17.440Z,46.671666666667,-122.12183333333,21.94,0.91,ml,"6 km SE of Mineral, Washington",earthquake
+ok2026ebzj,2026-02-28T00:05:35.979Z,34.425,-97.45133333,5.74,1.88,ml,"5 km ESE of Ratliff City, Oklahoma",earthquake
+aka2026ecmgit,2026-02-28T00:03:49.019Z,64.984,-147.442,0,1.5,ml,"8 km ENE of Fox, Alaska",quarry blast
+aka2026ecmgcq,2026-02-28T00:03:33.996Z,60.456,-139.463,1.2,2.1,ml,"102 km N of Yakutat, Alaska",earthquake
+nn00911319,2026-02-27T23:59:19.275Z,39.4962,-119.5129,0.0191,1.59,ml,"18 km NW of Stagecoach, Nevada",earthquake
+ci41405936,2026-02-27T23:56:46.010Z,33.624666666667,-116.6725,13.12,0.76,ml,"8 km N of Anza, CA",earthquake
+nc75319967,2026-02-27T23:56:05.440Z,40.3485,-124.81833333333,7.64,2.41,md,"45 km W of Petrolia, CA",earthquake
+ci41405928,2026-02-27T23:55:46.800Z,33.784833333333,-118.75,0.7,1.97,ml,"25 km SSE of Malibu, CA",earthquake
+aka2026eclrje,2026-02-27T23:46:26.912Z,61.862,-150.604,54.8,2.6,ml,"32 km WNW of Willow, Alaska",earthquake
+hv74910501,2026-02-27T23:43:15.600Z,19.135499954224,-155.44450378418,38.75,1.76,md,"8 km SSE of Pāhala, Hawaii",earthquake
+us7000s0xx,2026-02-27T23:38:39.870Z,40.7514,48.8018,10,4.2,mb,"16 km SW of Altıağac, Azerbaijan",earthquake
+nc75319962,2026-02-27T23:31:36.040Z,39.243,-123.19533333333,6.88,1.74,md,"3 km SSE of Redwood Valley, CA",earthquake
+nc75319957,2026-02-27T23:28:06.230Z,37.738333333333,-122.55733333333,9.32,1.15,md,"5 km W of San Francisco Zoo, CA",earthquake
+ci41405896,2026-02-27T23:18:50.580Z,35.9065,-117.6915,5.73,1.83,ml,"20 km E of Little Lake, CA",earthquake
+nc75319947,2026-02-27T23:08:11.580Z,36.583833333333,-121.41083333333,1.95,1.15,md,"9 km NNE of Gonzales, CA",earthquake
+us7000s0xh,2026-02-27T23:06:38.990Z,28.0272,139.9178,446.646,4.4,mb,"Bonin Islands, Japan region",earthquake
+aka2026eckaas,2026-02-27T22:56:29.404Z,63.576,-149.323,95.2,1.9,ml,"26 km SW of Denali Park, Alaska",earthquake
+ok2026ebwz,2026-02-27T22:53:56.390Z,34.4055,-97.437,5.15,2.23,ml,"8 km SE of Ratliff City, Oklahoma",earthquake
+tx2026ecjunj,2026-02-27T22:49:45.522Z,32.48,-101.684,6.5674,0.6,ml,"5 km SSE of Ackerly, Texas",earthquake
+aka2026ecjuhb,2026-02-27T22:49:30.066Z,61.428,-150.68,52.5,1.9,ml,"15 km SW of Susitna, Alaska",earthquake
+us6000sfvh,2026-02-27T22:44:40.952Z,51.6013,159.7883,35,4.5,mb,"175 km SSE of Vilyuchinsk, Russia",earthquake
+ok2026ebwm,2026-02-27T22:38:43.179Z,35.6345,-98.0255,6.46,1.15,ml,"9 km ENE of Calumet, Oklahoma",earthquake
+us6000sfvg,2026-02-27T22:26:33.134Z,2.4258,125.9192,10,4.2,mb,"140 km NE of Bitung, Indonesia",earthquake
+uw62229196,2026-02-27T22:20:24.470Z,46.667,-122.12616666667,20.95,0.81,ml,"7 km SE of Mineral, Washington",earthquake
+aka2026ecirdt,2026-02-27T22:15:39.636Z,60.543,-139.991,7.4,2.3,ml,"111 km N of Yakutat, Alaska",earthquake
+nc75319942,2026-02-27T22:13:18.980Z,39.209166666667,-123.1145,4.25,2.08,md,"10 km NNE of Talmage, CA",earthquake
+aka2026ecijyk,2026-02-27T22:07:19.252Z,59.752,-153.329,118.7,2.8,ml,"43 km E of Pedro Bay, Alaska",earthquake
+us6000sfvd,2026-02-27T22:01:16.809Z,40.7919,48.7566,10,4.1,mb,"16 km WSW of Altıağac, Azerbaijan",earthquake
+tx2026ecicsw,2026-02-27T22:00:12.997Z,31.699,-103.981,6.4075,0.2,ml,"36 km W of Mentone, Texas",earthquake
+aka2026eciara,2026-02-27T21:56:31.888Z,59.315,-152.146,62.2,2.8,ml,"13 km WSW of Nanwalek, Alaska",earthquake
+ci41405776,2026-02-27T21:53:54.820Z,33.243333333333,-116.80583333333,12.27,0.58,ml,"4 km W of Lake Henshaw, CA",earthquake
+ci41405768,2026-02-27T21:49:45.270Z,33.930833333333,-116.80216666667,17.83,0.84,ml,"2 km NW of Cabazon, CA",earthquake
+aka2026echorq,2026-02-27T21:42:38.415Z,63.244,-149.876,3.1,1.7,ml,"49 km WSW of Cantwell, Alaska",earthquake
+uu80130766,2026-02-27T21:42:28.420Z,41.729,-112.31366666667,1.61,1.2,ml,"4 km NNW of Thatcher, Utah",earthquake
+us6000sfvb,2026-02-27T21:31:26.479Z,-9.7799,118.9897,59.722,4.2,mb,"47 km SW of Tambolaka, Indonesia",earthquake
+nc75319932,2026-02-27T21:28:38.330Z,38.835166931152,-122.79467010498,2.0499999523163,0.9,md,"6 km WNW of Cobb, CA",earthquake
+tx2026ecgwgo,2026-02-27T21:21:17.777Z,31.88,-101.912,5.4199,0.1,ml,"20 km SE of Midland, Texas",earthquake
+aka2026ecguyy,2026-02-27T21:19:46.436Z,60.785,-151.752,78.3,1.6,ml,"27 km WNW of Nikiski, Alaska",earthquake
+ok2026ebtu,2026-02-27T21:16:07.040Z,34.41966667,-97.45216667,5.39,1.14,ml,"6 km ESE of Ratliff City, Oklahoma",earthquake
+aka2026ecgoca,2026-02-27T21:11:42.454Z,60.48,-140.028,7.4,2,ml,"105 km N of Yakutat, Alaska",earthquake
+av94063738,2026-02-27T21:09:32.070Z,59.989166666667,-153.07516666667,-2.96,-0.52,ml,"61 km ENE of Pedro Bay, Alaska",earthquake
+nc75319927,2026-02-27T21:01:23.200Z,37.001833333333,-119.80316666667,-0.15,2.11,md,"7 km ENE of Bonadelle Ranchos-Madera Ranchos, CA",quarry blast
+ok2026ebtf,2026-02-27T20:58:59.149Z,34.4285,-97.44116667,3.73,1.59,ml,"6 km SSE of Tatums, Oklahoma",earthquake
+ci41405720,2026-02-27T20:44:03.380Z,34.177833333333,-117.93133333333,-0.91,0.97,ml,"5 km NE of Bradbury, CA",quarry blast
+aka2026ecfjuo,2026-02-27T20:36:53.316Z,60.352,-141.283,17,1.8,ml,"124 km NW of Yakutat, Alaska",earthquake
+aka2026ecffpf,2026-02-27T20:31:55.529Z,60.974,-147.472,7,1.5,ml,"44 km WNW of Tatitlek, Alaska",earthquake
+av94063713,2026-02-27T20:28:20.710Z,53.8985,-166.634,7.38,0.17,ml,"6 km W of Dutch Harbor, Alaska",earthquake
+ci41405704,2026-02-27T20:21:28.250Z,33.757166666667,-117.06033333333,-0.63,0.63,ml,"3 km NE of Green Acres, CA",quarry blast
+ci41405696,2026-02-27T20:17:04.710Z,35.049833333333,-118.34166666667,1.1,1.16,ml,"13 km SE of Tehachapi, CA",quarry blast
+tx2026eceqxs,2026-02-27T20:14:43.234Z,32.206,-101.354,6.1279,1,ml,"8 km S of Sand Springs, Texas",earthquake
+ci41405680,2026-02-27T20:10:30.390Z,34.8385,-118.77983333333,2.06,1.15,ml,"8 km E of Lebec, CA",quarry blast
+tx2026ecdifr,2026-02-27T19:37:52.600Z,31.671,-104.409,6.0999,2.2,ml,"56 km S of Whites City, New Mexico",earthquake
+us7000s0wa,2026-02-27T19:31:56.390Z,52.4582,-169.9867,29.576,2.5,ml,"93 km SW of Nikolski, Alaska",earthquake
+ci41405656,2026-02-27T19:31:24.820Z,34.4235,-118.59066666667,4.79,0.96,ml,"4 km SSW of Valencia, CA",earthquake
+av94063683,2026-02-27T19:29:07.150Z,58.1675,-155.3545,2.28,0.92,ml,"85 km NW of Karluk, Alaska",earthquake
+aka2026ecddgn,2026-02-27T19:28:33.066Z,60.546,-140.047,6.1,2,ml,"112 km N of Yakutat, Alaska",earthquake
+us7000s0vh,2026-02-27T19:24:04.790Z,35.8817,74.9067,47.786,4.2,mb,"52 km SSE of Barishal, Pakistan",earthquake
+av94063673,2026-02-27T19:18:25.630Z,58.277,-154.83083333333,17.72,0.91,ml,"81 km NNW of Karluk, Alaska",earthquake
+tx2026eccrky,2026-02-27T19:15:00.130Z,31.655,-104.396,5.5359,3.1,ml,"57 km S of Whites City, New Mexico",earthquake
+nc75319917,2026-02-27T19:11:59.730Z,37.413666666667,-118.5495,8.76,1.06,md,"4 km E of Round Valley, CA",earthquake
+ok2026ebpq,2026-02-27T19:10:42.329Z,34.4165,-97.44816667,4.55,1.34,ml,"6 km ESE of Ratliff City, Oklahoma",earthquake
+us6000sfv9,2026-02-27T19:01:49.092Z,-20.6047,-177.8574,503.496,4.4,mb,"273 km WNW of Houma, Tonga",earthquake
+us6000sfv7,2026-02-27T19:01:28.801Z,-16.3237,-173.7528,10,4.7,mb,"41 km S of Hihifo, Tonga",earthquake
+us6000sfv8,2026-02-27T18:58:08.469Z,-5.5009,147.2165,191.149,4.3,mb,"136 km NNW of Finschhafen, Papua New Guinea",earthquake
+us7000s0vb,2026-02-27T18:55:55.968Z,-15.2109,-72.2522,154.06,4.2,mb,"11 km ENE of Orcopampa, Peru",earthquake
+aka2026ecbxfp,2026-02-27T18:51:33.460Z,60.589,-139.863,11.4,2,ml,"116 km N of Yakutat, Alaska",earthquake
+tx2026ecbuzl,2026-02-27T18:48:55.415Z,32.411,-101.401,5.249,1.2,ml,"14 km NNW of Sand Springs, Texas",earthquake
+ok2026ebou,2026-02-27T18:45:03.029Z,34.41466667,-97.449,5.83,2.08,ml,"6 km SE of Ratliff City, Oklahoma",earthquake
+ci41405640,2026-02-27T18:44:12.480Z,34.1625,-117.45316666667,8.63,0.8,ml,"7 km N of Fontana, CA",earthquake
+aka2026ecbpxu,2026-02-27T18:43:02.930Z,61.568,-141.342,7.3,2,ml,"85 km E of McCarthy, Alaska",earthquake
+nc75319902,2026-02-27T18:40:18.210Z,38.823001861572,-122.84666442871,2.0899999141693,0.67,md,"9 km WNW of The Geysers, CA",earthquake
+aka2026ecbkel,2026-02-27T18:36:22.679Z,62.859,-150.897,93.6,2.2,ml,"40 km N of Petersville, Alaska",earthquake
+nc75319897,2026-02-27T18:33:59.100Z,38.758,-122.722,2.58,0.32,md,"3 km SW of Anderson Springs, CA",earthquake
+aka2026ecbhjc,2026-02-27T18:33:07.240Z,61.738,-150.931,62.8,1.8,ml,"31 km NW of Susitna, Alaska",earthquake
+us7000s0v7,2026-02-27T18:31:18.635Z,-60.2661,-61.5252,10,5.3,mb,Drake Passage,earthquake
+ci41405624,2026-02-27T18:29:40.020Z,35.647,-117.497,6.02,1.5,ml,"16 km SSW of Searles Valley, CA",earthquake
+aka2026ecbdoo,2026-02-27T18:28:43.014Z,60.013,-148.263,1.4,2.2,ml,"15 km WSW of Chenega, Alaska",earthquake
+nc75319887,2026-02-27T18:28:24.630Z,38.793333333333,-122.763,2.77,0.26,md,"2 km NNW of The Geysers, CA",earthquake
+nc75319882,2026-02-27T18:27:41.980Z,38.829666137695,-122.81500244141,1.6299999952316,1.01,md,"8 km NW of The Geysers, CA",earthquake
+aka2026ecbbqs,2026-02-27T18:26:26.665Z,64.909,-151.121,7.8,1.7,ml,"25 km WSW of Manley Hot Springs, Alaska",earthquake
+ci41405616,2026-02-27T18:25:57.810Z,33.292,-116.74466666667,12.95,1.09,ml,"6 km NNE of Lake Henshaw, CA",earthquake
+ok2026ebod,2026-02-27T18:25:22.120Z,34.40283333,-97.42683333,5.61,1.39,ml,"9 km SE of Ratliff City, Oklahoma",earthquake
+tx2026ecavfs,2026-02-27T18:19:13.563Z,32.294,-101.844,5.9082,1.1,ml,"19 km NNW of Stanton, Texas",earthquake
+us7000s7j5,2026-02-27T18:18:40.746Z,36.7756,-104.6644,5,1.4,ml,"24 km SW of Raton, New Mexico",earthquake
+ok2026ebnu,2026-02-27T18:14:51.119Z,34.5065,-97.21216667,0,1.35,ml,"8 km W of Davis, Oklahoma",quarry blast
+aka2026ecakut,2026-02-27T18:06:55.857Z,60.43,-139.54,1.7,2.1,ml,"98 km N of Yakutat, Alaska",earthquake
+us7000s0y7,2026-02-27T18:01:15.037Z,52.4194,-170.0079,23.077,3.9,mb,"96 km SW of Nikolski, Alaska",earthquake
+ci41405584,2026-02-27T18:00:57.550Z,33.706,-116.8245,14.76,0.61,ml,"8 km SE of Valle Vista, CA",earthquake
+hv74910316,2026-02-27T17:56:54.830Z,18.821166992188,-155.14166259766,18.790000915527,1.75,md,"53 km ESE of Naalehu, Hawaii",earthquake
+aka2026ebzvws,2026-02-27T17:49:37.069Z,60.522,-139.873,9.3,2.2,ml,"108 km N of Yakutat, Alaska",earthquake
+aka2026ebzsjc,2026-02-27T17:45:30.862Z,60.524,-139.95,11.6,2.1,ml,"109 km N of Yakutat, Alaska",earthquake
+uu80130756,2026-02-27T17:42:25.870Z,40.728666666667,-112.02066666667,8.53,1.1,ml,"4 km NNW of West Valley City, Utah",earthquake
+us6000sfv6,2026-02-27T17:31:00.329Z,-3.4339,140.1298,42.852,4.4,mb,"108 km SSW of Abepura, Indonesia",earthquake
+nc75319862,2026-02-27T17:30:16.970Z,39.244333333333,-123.19516666667,7.04,1.15,md,"2 km SSE of Redwood Valley, CA",earthquake
+nc75319857,2026-02-27T17:28:57.190Z,39.2445,-123.19283333333,7.54,2.03,md,"3 km SSE of Redwood Valley, CA",earthquake
+nc75319852,2026-02-27T17:28:08.480Z,38.78783416748,-122.76933288574,0.87999999523163,1.49,md,"2 km NW of The Geysers, CA",earthquake
+nc75319837,2026-02-27T17:23:30.360Z,38.431166666667,-122.24066666667,6.65,0.82,md,"11 km ENE of Yountville, CA",earthquake
+aka2026ebyyqg,2026-02-27T17:22:37.988Z,61.674,-149.878,21.7,2,ml,"5 km NNW of Houston, Alaska",earthquake
+nc75319832,2026-02-27T17:21:25.960Z,37.238833333333,-121.62083333333,5.22,1.16,md,"12 km NNE of Morgan Hill, CA",earthquake
+ok2026ebma,2026-02-27T17:21:16.899Z,34.40433333,-97.425,4.13,1.35,ml,"9 km ESE of Ratliff City, Oklahoma",earthquake
+hv74910296,2026-02-27T17:19:01.290Z,19.495000839233,-155.36517333984,11.939999580383,1.83,md,"14 km WNW of Volcano, Hawaii",earthquake
+ok2026eblt,2026-02-27T17:12:45.229Z,35.80016667,-94.764,0,1.59,ml,"0 km SSE of Rocky Mountain, Oklahoma",quarry blast
+us7000s1c3,2026-02-27T17:10:48.969Z,55.5626,-149.3831,10,3.6,ml,"289 km SE of Chiniak, Alaska",earthquake
+us7000s7j4,2026-02-27T17:10:45.515Z,36.8847,-104.829,5,1.3,ml,"27 km SSW of Segundo, Colorado",earthquake
+us7000s7j2,2026-02-27T17:09:50.671Z,36.8893,-104.8597,5,1.5,ml,"27 km S of Weston, Colorado",earthquake
+us6000sfv4,2026-02-27T17:09:00.554Z,12.0713,-87.9692,31.362,4.5,mb,"93 km SW of Jiquilillo, Nicaragua",earthquake
+aka2026ebyeab,2026-02-27T16:58:42.491Z,59.042,-152.766,66.8,2.1,ml,"59 km SW of Nanwalek, Alaska",earthquake
+ok2026ebld,2026-02-27T16:53:57.820Z,34.40833333,-97.42416667,4.28,1.43,ml,"8 km SSE of Tatums, Oklahoma",earthquake
+us7000s0se,2026-02-27T16:23:51.202Z,8.9272,126.2256,78.53,4.6,mb,"7 km W of Bacolod, Philippines",earthquake
+nc75319807,2026-02-27T16:23:29.550Z,38.827667236328,-122.76516723633,1.960000038147,0.58,md,"4 km W of Cobb, CA",earthquake
+us7000s0sh,2026-02-27T16:17:08.408Z,-27.6234,64.3197,10,4.9,mb,Southwest Indian Ridge,earthquake
+ok2026ebjm,2026-02-27T16:03:36.109Z,34.40866667,-97.44583333,5.95,1.89,ml,"7 km SE of Ratliff City, Oklahoma",earthquake
+nc75319797,2026-02-27T15:58:07.770Z,38.760166666667,-122.71483333333,1.63,-0.01,md,"3 km SW of Anderson Springs, CA",earthquake
+aka2026ebwdit,2026-02-27T15:57:35.006Z,58.284,-154.895,5,0.8,ml,"83 km NNW of Karluk, Alaska",earthquake
+aka2026ebwcgg,2026-02-27T15:56:18.494Z,62.997,-150.764,113.1,1.7,ml,"55 km N of Petersville, Alaska",earthquake
+aka2026ebvtmx,2026-02-27T15:46:09.903Z,60.521,-139.748,6.5,2.1,ml,"108 km N of Yakutat, Alaska",earthquake
+av94063363,2026-02-27T15:45:35.790Z,53.457166666667,-168.20866666667,-0.14,1.01,ml,"72 km NE of Nikolski, Alaska",earthquake
+us7000s0s8,2026-02-27T15:45:31.230Z,-11.8378,166.6133,180.664,4.7,mb,"151 km SE of Lata, Solomon Islands",earthquake
+aka2026ebvoca,2026-02-27T15:39:52.622Z,61.213,-147.334,13.9,1.8,ml,"52 km NW of Tatitlek, Alaska",earthquake
+aka2026ebvjgt,2026-02-27T15:34:16.447Z,61.571,-146.552,19.7,2.1,ml,"48 km SSE of Nelchina, Alaska",earthquake
+ci41405448,2026-02-27T15:32:18.780Z,33.250666666667,-115.66083333333,2.66,1.17,ml,"13 km SSE of Bombay Beach, CA",earthquake
+nc75319777,2026-02-27T15:13:05.530Z,38.82466506958,-122.79949951172,3.0999999046326,0.92,md,"6 km NW of The Geysers, CA",earthquake
+aka2026ebuqnz,2026-02-27T15:12:33.007Z,63.149,-150.854,137.4,2.1,ml,"61 km SE of Denali National Park, Alaska",earthquake
+aka2026ebupbi,2026-02-27T15:10:49.694Z,57.221,-154.918,25.2,2.5,ml,"47 km SW of Karluk, Alaska",earthquake
+ci41405408,2026-02-27T15:10:14.870Z,33.641833333333,-117.0095,12.48,0.63,ml,"10 km SE of Winchester, CA",earthquake
+av94063243,2026-02-27T15:00:04.340Z,60.488333333333,-152.69866666667,3.39,-1.24,ml,"75 km NW of Ninilchik, Alaska",earthquake
+nc75319772,2026-02-27T15:00:02.590Z,38.836334228516,-122.8184967041,2.1900000572205,0.22,md,"8 km W of Cobb, CA",earthquake
+ci41405400,2026-02-27T14:57:09.120Z,35.674,-117.48433333333,6.28,0.89,ml,"13 km SW of Searles Valley, CA",earthquake
+us6000sfv1,2026-02-27T14:54:28.525Z,25.2804,125.02,10,4.6,mb,"59 km NNW of Hirara, Japan",earthquake
+ci41405376,2026-02-27T14:51:55.140Z,34.037666666667,-117.229,4.52,1.13,ml,"3 km ESE of Loma Linda, CA",earthquake
+aka2026ebtwrm,2026-02-27T14:49:29.062Z,63.446,-150.313,137.1,1.9,ml,"68 km W of Cantwell, Alaska",earthquake
+ok2026ebha,2026-02-27T14:49:27.420Z,34.41083333,-97.44133333,5.87,1.36,ml,"7 km SE of Ratliff City, Oklahoma",earthquake
+nc75319767,2026-02-27T14:48:24.270Z,37.572833333333,-118.84083333333,5.29,0.4,md,"14 km ESE of Mammoth Lakes, CA",earthquake
+us7000s0qv,2026-02-27T14:48:19.527Z,25.2447,125.001,10,5,mww,"57 km NNW of Hirara, Japan",earthquake
+ci10226350,2026-02-27T14:44:13.910Z,34.337666666667,-116.84733333333,5.11,0.39,ml,"9 km N of Big Bear City, CA",earthquake
+ci41405352,2026-02-27T14:43:45.470Z,34.042333333333,-117.23433333333,5.33,0.93,ml,"3 km ESE of Loma Linda, CA",earthquake
+ci41405344,2026-02-27T14:43:26.680Z,34.0325,-117.227,3.4,1.08,ml,"4 km ESE of Loma Linda, CA",earthquake
+ci41405336,2026-02-27T14:42:30.240Z,34.037166666667,-117.23016666667,5.41,1.39,ml,"3 km ESE of Loma Linda, CA",earthquake
+ci41405328,2026-02-27T14:37:32.540Z,35.361666666667,-117.79016666667,2.52,0.71,ml,"14 km W of Johannesburg, CA",earthquake
+nm60617876,2026-02-27T14:35:24.810Z,36.516333333333,-89.577833333333,9.77,1.7,md,"3 km E of Marston, Missouri",earthquake
+nc75319757,2026-02-27T14:32:52.860Z,38.827667236328,-122.79733276367,2.539999961853,0.9,md,"6 km W of Cobb, CA",earthquake
+uu80130751,2026-02-27T14:29:16.710Z,40.606833333333,-111.323,12.12,0.67,md,"3 km W of Francis, Utah",earthquake
+ok2026ebge,2026-02-27T14:23:51.799Z,34.416,-97.429,5.93,1.37,ml,"8 km SSE of Tatums, Oklahoma",earthquake
+tx2026ebswvm,2026-02-27T14:19:30.694Z,31.671,-104.418,6.0999,2.3,ml,"56 km S of Whites City, New Mexico",earthquake
+tx2026ebsodk,2026-02-27T14:09:25.154Z,31.665,-104.412,6.2024,2.6,ml,"56 km S of Whites City, New Mexico",earthquake
+nc75319752,2026-02-27T14:08:22.640Z,38.791168212891,-122.78333282471,3.329999923706,1.29,md,"3 km WNW of The Geysers, CA",earthquake
+ci41405288,2026-02-27T14:00:59.630Z,34.042166666667,-117.234,4.5,0.86,ml,"3 km ESE of Loma Linda, CA",earthquake
+tx2026ebscxs,2026-02-27T13:56:24.346Z,32.022,-102.226,2.4658,0.4,ml,"14 km W of Midland, Texas",earthquake
+us7000s2dj,2026-02-27T13:56:22.968Z,54.4253,-160.3347,10,2.7,ml,"101 km S of Sand Point, Alaska",earthquake
+us7000s2di,2026-02-27T13:54:36.398Z,52.2553,-169.8167,10,3.4,ml,"99 km SW of Nikolski, Alaska",earthquake
+us6000sfuy,2026-02-27T13:53:26.988Z,-3.0362,130.2768,10,4.2,mb,"148 km ENE of Masohi, Indonesia",earthquake
+nc75319747,2026-02-27T13:52:49.780Z,37.792166666667,-122.21133333333,11.87,1.39,md,"2 km ESE of Oakland, CA",earthquake
+aka2026ebrxol,2026-02-27T13:50:10.988Z,62.427,-148.979,5.1,1.7,ml,"54 km ENE of Susitna North, Alaska",earthquake
+us6000sfux,2026-02-27T13:39:56.198Z,3.9779,126.5983,185.82,4.3,mb,"201 km SE of Sarangani, Philippines",earthquake
+us7000s0qm,2026-02-27T13:34:50.644Z,37.7694,72.2328,108.501,4.1,mb,"67 km ENE of Khorugh, Tajikistan",earthquake
+aka2026ebrjae,2026-02-27T13:33:15.174Z,60.474,-152.443,93.7,1.5,ml,"63 km WSW of Salamatof, Alaska",earthquake
+tx2026ebrhbk,2026-02-27T13:31:04.074Z,31.872,-101.92,7.0068,0.1,ml,"20 km SE of Midland, Texas",earthquake
+aka2026ebramw,2026-02-27T13:23:22.876Z,60.969,-152.657,147.3,1.9,ml,"80 km WNW of Nikiski, Alaska",earthquake
+hv74910186,2026-02-27T13:18:11.900Z,19.095666885376,-155.34733581543,41.610000610352,1.77,md,"18 km SE of Pāhala, Hawaii",earthquake
+ci41405272,2026-02-27T13:14:52.210Z,33.150666666667,-116.47333333333,11.42,1.41,ml,"14 km NE of Julian, CA",earthquake
+tx2026ebqimz,2026-02-27T13:02:28.087Z,31.672,-104.41,6.0999,2.1,ml,"55 km S of Whites City, New Mexico",earthquake
+us7000s2dd,2026-02-27T13:01:22.954Z,52.3287,-169.8005,11.091,3,ml,"93 km SW of Nikolski, Alaska",earthquake
+aka2026ebqbpb,2026-02-27T12:54:31.158Z,62.057,-147.85,18.5,2.5,ml,"29 km NNW of Glacier View, Alaska",earthquake
+us6000sfuv,2026-02-27T12:53:30.148Z,51.3763,159.7053,10,4.3,mb,"194 km SSE of Vilyuchinsk, Russia",earthquake
+aka2026ebpyco,2026-02-27T12:50:28.154Z,63.045,-150.603,114.3,2.1,ml,"61 km N of Petersville, Alaska",earthquake
+us6000sfuu,2026-02-27T12:49:53.551Z,51.6404,159.25,61.572,4.4,mb,"154 km SSE of Vilyuchinsk, Russia",earthquake
+ci41405256,2026-02-27T12:44:20.060Z,34.032166666667,-117.23316666667,3.57,0.89,ml,"3 km SE of Loma Linda, CA",earthquake
+aka2026ebpsrl,2026-02-27T12:44:14.872Z,58.139,-155.043,94.9,1.7,ml,"72 km NNW of Karluk, Alaska",earthquake
+us7000s2df,2026-02-27T12:41:57.319Z,52.4682,-169.6897,15.963,3.2,ml,"76 km SW of Nikolski, Alaska",earthquake
+us6000sfut,2026-02-27T12:35:26.989Z,-8.1531,117.933,205.916,4.2,mb,"57 km ENE of Pototano, Indonesia",earthquake
+hv74910161,2026-02-27T12:30:09.280Z,18.979833333333,-155.474,36.54,2.11,ml,"14 km SE of Naalehu, Hawaii",earthquake
+ci41405248,2026-02-27T12:29:49.400Z,34.0305,-117.23566666667,5.49,1.04,ml,"3 km SE of Loma Linda, CA",earthquake
+ci41405240,2026-02-27T12:27:04.080Z,34.036666666667,-117.23383333333,4.19,0.71,ml,"3 km ESE of Loma Linda, CA",earthquake
+tx2026ebpdii,2026-02-27T12:26:22.883Z,31.671,-104.41,6.0999,2.1,ml,"56 km S of Whites City, New Mexico",earthquake
+us7000s1c0,2026-02-27T12:26:08.457Z,52.4317,-169.7239,14.97,3.3,mb,"81 km SW of Nikolski, Alaska",earthquake
+hv74910156,2026-02-27T12:24:14.800Z,19.2705,-155.008,43.3,1.78,ml,"24 km SSW of Leilani Estates, Hawaii",earthquake
+ci41405232,2026-02-27T12:21:09.810Z,34.035,-117.2355,5.54,1.07,ml,"3 km ESE of Loma Linda, CA",earthquake
+ci41405224,2026-02-27T12:19:35.810Z,34.030166666667,-117.234,5.98,0.99,ml,"3 km SE of Loma Linda, CA",earthquake
+ci41405216,2026-02-27T12:17:18.580Z,34.034333333333,-117.23283333333,4.56,1.8,ml,"3 km ESE of Loma Linda, CA",earthquake
+ci41405208,2026-02-27T12:16:59.500Z,34.035333333333,-117.2335,5.45,1.67,ml,"3 km ESE of Loma Linda, CA",earthquake
+nc75319737,2026-02-27T12:16:39.370Z,38.832500457764,-122.82366943359,1.0499999523163,0.79,md,"8 km NW of The Geysers, CA",earthquake
+ci41405200,2026-02-27T12:14:24.550Z,34.0315,-117.23283333333,4.37,0.85,ml,"3 km SE of Loma Linda, CA",earthquake
+ci41405192,2026-02-27T12:09:55.900Z,34.158,-117.79266666667,9.6,1.43,ml,"6 km NNE of San Dimas, CA",earthquake
+us6000sfv5,2026-02-27T12:05:02.941Z,40.748,48.8798,10,4.2,mb,"13 km SSW of Altıağac, Azerbaijan",earthquake
+nc75319732,2026-02-27T12:03:34.160Z,38.761666666667,-122.716,1.77,0.05,md,"3 km SW of Anderson Springs, CA",earthquake
+ci41405184,2026-02-27T12:02:36.480Z,33.522,-116.73983333333,3.71,1.12,ml,"7 km WSW of Anza, CA",earthquake
+us6000sfus,2026-02-27T12:00:34.321Z,6.849,126.712,10,4.4,mb,"36 km SE of Tarragona, Philippines",earthquake
+us7000s0q7,2026-02-27T11:52:47.253Z,40.7241,48.5941,10,4.8,mww,"11 km NNW of Shamakhi, Azerbaijan",earthquake
+ci41405168,2026-02-27T11:48:14.700Z,35.3675,-117.7805,4.56,1.12,ml,"13 km W of Johannesburg, CA",earthquake
+hv74910131,2026-02-27T11:44:17.520Z,19.038665771484,-155.38200378418,31.85000038147,1.7,md,"20 km SSE of Pāhala, Hawaii",earthquake
+aka2026ebnpvb,2026-02-27T11:40:18.140Z,55.404,-159.538,53.8,2.4,ml,"55 km S of Ivanof Bay, Alaska",earthquake
+tx2026ebnicj,2026-02-27T11:31:36.365Z,32.121,-102.175,7.0557,0.5,ml,"16 km NW of Midland, Texas",earthquake
+tx2026ebnhdd,2026-02-27T11:30:25.866Z,32.119,-102.182,5.4199,0.4,ml,"16 km NW of Midland, Texas",earthquake
+ci41405160,2026-02-27T11:29:21.160Z,33.550166666667,-117.2025,13.22,0.75,ml,"1 km ESE of Murrieta, CA",earthquake
+aka2026ebnfgs,2026-02-27T11:28:15.831Z,60.609,-139.914,12.4,2.5,ml,"118 km N of Yakutat, Alaska",earthquake
+nc75319727,2026-02-27T11:25:30.590Z,36.762666666667,-121.4845,6.69,1.33,md,"10 km SSE of San Juan Bautista, CA",earthquake
+ci41405152,2026-02-27T11:25:28.250Z,34.0375,-117.23066666667,5.01,1.62,ml,"3 km ESE of Loma Linda, CA",earthquake
+aka2026ebnasl,2026-02-27T11:22:59.465Z,62.952,-148.538,5.1,1.9,ml,"53 km SSE of Cantwell, Alaska",earthquake
+ci41405144,2026-02-27T11:19:13.040Z,34.034166666667,-117.23416666667,5.83,1.1,ml,"3 km ESE of Loma Linda, CA",earthquake
+ci41405136,2026-02-27T11:15:16.650Z,33.652333333333,-116.73666666667,14.96,0.75,ml,"10 km S of Idyllwild, CA",earthquake
+pr2026058000,2026-02-27T11:06:58.290Z,19.0468,-68.128,79,3.68,md,"59 km NNE of Punta Cana, Dominican Republic",earthquake
+ci41405128,2026-02-27T11:06:36.950Z,33.151,-116.5385,5.53,0.42,ml,"10 km NE of Julian, CA",earthquake
+nc75319722,2026-02-27T11:05:59.480Z,37.950166666667,-118.61233333333,13.31,1.28,md,"41 km S of Qualeys Camp, NV",earthquake
+nc75319717,2026-02-27T11:04:23.710Z,38.820835113525,-122.8424987793,1.8099999427795,0.94,md,"9 km WNW of The Geysers, CA",earthquake
+aka2026ebmita,2026-02-27T11:02:07.784Z,63.246,-150.478,120.2,1.9,ml,"70 km ESE of Denali National Park, Alaska",earthquake
+us7000s0q0,2026-02-27T11:01:04.415Z,25.1821,125.1632,10,4.7,mb,"44 km NNW of Hirara, Japan",earthquake
+us7000s0px,2026-02-27T11:00:00.314Z,-45.1084,167.4804,126.698,4.2,mb,"38 km NNW of Te Anau, New Zealand",earthquake
+ci41405120,2026-02-27T10:57:30.060Z,32.869,-117.46833333333,17.01,1.03,ml,"18 km W of La Jolla, CA",earthquake
+nc75319712,2026-02-27T10:55:20.690Z,38.824,-122.842,2.03,0.24,md,"9 km NW of The Geysers, CA",earthquake
+ci41405112,2026-02-27T10:47:46.710Z,34.033666666667,-117.2335,5.29,1.23,ml,"3 km ESE of Loma Linda, CA",earthquake
+nc75319707,2026-02-27T10:45:13.980Z,35.846833333333,-120.5705,9.07,0.28,md,"14 km WSW of Parkfield, CA",earthquake
+ci41405104,2026-02-27T10:43:15.520Z,34.036666666667,-117.23216666667,5.29,1.47,ml,"3 km ESE of Loma Linda, CA",earthquake
+av94062303,2026-02-27T10:40:34.920Z,58.303833333333,-155.28333333333,6.14,-0.52,ml,"91 km ESE of King Salmon, Alaska",earthquake
+ci41405096,2026-02-27T10:39:09.780Z,33.034833333333,-116.41,8.16,0.63,ml,"19 km ESE of Julian, CA",earthquake
+tx2026ebkzjr,2026-02-27T10:21:07.139Z,31.876,-101.922,6.4209,1,ml,"19 km SE of Midland, Texas",earthquake
+us7000s0pt,2026-02-27T10:20:09.687Z,60.4903,-139.6367,5,2.8,ml,"105 km N of Yakutat, Alaska",earthquake
+ci41405088,2026-02-27T10:15:21.570Z,33.658,-116.78166666667,12.01,1.18,ml,"11 km SSW of Idyllwild, CA",earthquake
+aka2026ebkpvj,2026-02-27T10:09:58.796Z,62.765,-152.677,10,2.1,ml,"90 km ESE of Nikolai, Alaska",earthquake
+aka2026ebkjig,2026-02-27T10:02:28.977Z,60.435,-139.52,6.1,2.3,ml,"99 km N of Yakutat, Alaska",earthquake
+ci41405080,2026-02-27T10:01:12.950Z,33.248833333333,-116.8025,11.94,0.7,ml,"4 km WNW of Lake Henshaw, CA",earthquake
+aka2026ebjlmp,2026-02-27T09:34:48.351Z,63.192,-150.527,120.1,2.7,ml,"71 km ESE of Denali National Park, Alaska",earthquake
+ok2026eawq,2026-02-27T09:34:20.699Z,35.6285,-98.02216667,35.22,1,ml,"9 km ENE of Calumet, Oklahoma",earthquake
+aka2026ebjkid,2026-02-27T09:34:04.755Z,60.34,-152.152,90,1.8,ml,"41 km NW of Ninilchik, Alaska",earthquake
+uw62229091,2026-02-27T09:29:10.470Z,46.6695,-122.11983333333,21.78,0.78,ml,"7 km SE of Mineral, Washington",earthquake
+ci41405072,2026-02-27T09:26:39.570Z,33.226833333333,-116.18966666667,8.11,1.04,ml,"11 km NNW of Ocotillo Wells, CA",earthquake
+nc75319702,2026-02-27T09:26:32.740Z,38.834499359131,-122.78949737549,1.6799999475479,1.12,md,"6 km WNW of Cobb, CA",earthquake
+nc75319697,2026-02-27T09:24:00.880Z,38.826000213623,-122.79816436768,2.1400001049042,0.9,md,"7 km NNW of The Geysers, CA",earthquake
+tx2026ebiwnx,2026-02-27T09:17:37.068Z,31.617,-103.957,8.3557,1.9,ml,"35 km WSW of Mentone, Texas",earthquake
+ci41405064,2026-02-27T09:15:21.260Z,35.484333333333,-118.2925,2.78,1.42,ml,"21 km ESE of Bodfish, CA",earthquake
+ci41405056,2026-02-27T09:15:01.440Z,35.485166666667,-118.29283333333,2.88,0.77,ml,"21 km ESE of Bodfish, CA",earthquake
+nc75319692,2026-02-27T09:13:54.660Z,38.8235,-122.8055,2.44,0.39,md,"7 km NW of The Geysers, CA",earthquake
+nc75319687,2026-02-27T09:08:35.780Z,38.823333333333,-122.807,3.29,0.34,md,"7 km NW of The Geysers, CA",earthquake
+ci41405048,2026-02-27T09:07:44.050Z,33.395333333333,-116.37166666667,3.14,0.88,ml,"16 km N of Borrego Springs, CA",earthquake
+nc75319682,2026-02-27T08:57:14.980Z,39.072,-123.3245,6.03,0.98,md,"8 km NNE of Boonville, CA",earthquake
+aka2026ebhvik,2026-02-27T08:45:47.721Z,60.476,-139.638,7.8,2.3,ml,"103 km N of Yakutat, Alaska",earthquake
+ok2026eauv,2026-02-27T08:40:02.279Z,35.62783333,-98.02533333,5.85,1.13,ml,"8 km ENE of Calumet, Oklahoma",earthquake
+uu80006453,2026-02-27T08:38:37.380Z,41.8125,-112.37283333333,9.68,0.46,md,"6 km ENE of Howell, Utah",earthquake
+ci41405040,2026-02-27T08:38:30.140Z,36.309833333333,-118.33866666667,2.34,1.35,ml,"30 km W of Olancha, CA",earthquake
+ok2026eaut,2026-02-27T08:37:46.700Z,34.4215,-97.4485,4.56,1.39,ml,"6 km ESE of Ratliff City, Oklahoma",earthquake
+nc75319672,2026-02-27T08:35:08.120Z,38.823501586914,-122.80766296387,2.6099998950958,0.77,md,"7 km NW of The Geysers, CA",earthquake
+nc75319667,2026-02-27T08:31:47.570Z,38.830333709717,-122.81983184815,1.3700000047684,0.76,md,"8 km NW of The Geysers, CA",earthquake
+ci41405032,2026-02-27T08:27:49.610Z,33.524666666667,-116.737,3.9,0.78,ml,"7 km WSW of Anza, CA",earthquake
+aka2026ebhdjw,2026-02-27T08:25:03.746Z,59.568,-153.065,106.3,2.1,ml,"63 km ESE of Pedro Bay, Alaska",earthquake
+aka2026ebhcmq,2026-02-27T08:24:05.969Z,61.021,-152.094,102,1.7,ml,"51 km W of Tyonek, Alaska",earthquake
+ok2026eaue,2026-02-27T08:23:41.729Z,35.62566667,-98.03016667,6.65,2.53,ml,"8 km ENE of Calumet, Oklahoma",earthquake
+uw62229086,2026-02-27T08:19:11.700Z,46.67,-122.12116666667,21.64,1,ml,"7 km SE of Mineral, Washington",earthquake
+aka2026ebgvif,2026-02-27T08:15:59.705Z,59.438,-151.89,61.3,2.1,ml,"9 km N of Nanwalek, Alaska",earthquake
+aka2026ebgrzp,2026-02-27T08:11:49.749Z,60.398,-139.493,4,2.2,ml,"95 km N of Yakutat, Alaska",earthquake
+nc75319662,2026-02-27T08:09:52.290Z,37.217166666667,-121.60516666667,3.58,0.71,md,"11 km NNE of Morgan Hill, CA",earthquake
+us6000sfuw,2026-02-27T08:03:21.605Z,-53.6432,-51.5636,10,4.5,mb,South Atlantic Ocean,earthquake
+aka2026ebgdyy,2026-02-27T07:55:31.627Z,57.366,-153.151,3.3,2.3,ml,"20 km NNE of Old Harbor, Alaska",earthquake
+ok2026eath,2026-02-27T07:53:34.280Z,34.41933333,-97.44733333,4.87,1.53,ml,"6 km ESE of Ratliff City, Oklahoma",earthquake
+us7000s0pc,2026-02-27T07:52:25.050Z,22.5236,89.1853,10,5,mww,"23 km SSE of Sātkhira, Bangladesh",earthquake
+nc75319657,2026-02-27T07:49:55.370Z,38.820331573486,-122.8048324585,3.9400000572205,0.75,md,"6 km NW of The Geysers, CA",earthquake
+tx2026ebfyjn,2026-02-27T07:49:04.114Z,32.22,-101.414,5.9326,1.1,ml,"6 km ESE of Big Spring, Texas",earthquake
+us7000s0zh,2026-02-27T07:46:15.449Z,45.1142,-66.9689,8.582,1.3,ml,"8 km NE of Saint Andrews, Canada",earthquake
+aka2026ebfshb,2026-02-27T07:42:00.297Z,62.388,-152.332,131.8,2.5,ml,"65 km NW of Skwentna, Alaska",earthquake
+nc75319647,2026-02-27T07:31:36.950Z,38.823165893555,-122.8004989624,2.460000038147,1.03,md,"6 km NW of The Geysers, CA",earthquake
+aka2026ebfifm,2026-02-27T07:30:35.398Z,61.519,-149.9,44.7,1.8,ml,"2 km E of Big Lake, Alaska",earthquake
+ci41405016,2026-02-27T07:29:33.240Z,36.416,-117.885,6.6,1.54,ml,"18 km NE of Olancha, CA",earthquake
+ci41405008,2026-02-27T07:27:43.910Z,35.990666666667,-117.41783333333,2.28,0.91,ml,"25 km N of Searles Valley, CA",earthquake
+ok2026eask,2026-02-27T07:26:43.159Z,35.63183333,-98.01883333,6,1.24,ml,"9 km ENE of Calumet, Oklahoma",earthquake
+nc75319637,2026-02-27T07:26:37.910Z,38.818500518799,-122.81916809082,2.210000038147,0.79,md,"7 km NW of The Geysers, CA",earthquake
+ok2026easi,2026-02-27T07:24:06.900Z,35.035,-97.92433333,8.98,0.71,ml,"2 km SSE of Chickasha, Oklahoma",earthquake
+tx2026ebfcpd,2026-02-27T07:23:48.783Z,32.401,-101.592,4.0771,0.4,ml,"18 km SE of Ackerly, Texas",earthquake
+aka2026ebfcig,2026-02-27T07:23:25.895Z,60.117,-141.139,3.1,2.1,ml,"101 km NW of Yakutat, Alaska",earthquake
+aka2026ebewdr,2026-02-27T07:16:19.002Z,60.945,-150.194,43,3.1,ml,"26 km E of Point Possession, Alaska",earthquake
+us7000s102,2026-02-27T07:12:39.459Z,58.8137,-153.9315,8.435,1.6,ml,"84 km SE of Kokhanok, Alaska",earthquake
+ok2026earv,2026-02-27T07:09:14.650Z,34.40683333,-97.44,4.91,1.38,ml,"7 km SE of Ratliff City, Oklahoma",earthquake
+pr71508693,2026-02-27T07:06:04.310Z,18.003333333333,-67.078166666667,14.34,1.93,md,"4 km S of Palmarejo, Puerto Rico",earthquake
+uw62229081,2026-02-27T07:05:58.940Z,46.2015,-122.186,3.1,0.13,ml,"38 km NNE of Amboy, Washington",earthquake
+aka2026ebenbg,2026-02-27T07:05:45.220Z,61.56,-141.326,13.6,2,ml,"86 km E of McCarthy, Alaska",earthquake
+nc75319632,2026-02-27T07:03:37.380Z,38.830333709717,-122.80833435059,1.8700000047684,1.29,md,"7 km NW of The Geysers, CA",earthquake
+ok2026earo,2026-02-27T07:00:29.379Z,36.86833333,-97.43733333,7.69,1.4,ml,"7 km N of Nardin, Oklahoma",earthquake
+aka2026ebegph,2026-02-27T06:58:26.979Z,60.656,-147.608,20.9,2,ml,"55 km WSW of Tatitlek, Alaska",earthquake
+nc75319627,2026-02-27T06:55:03.600Z,38.761333333333,-122.7305,1.67,0.25,md,"3 km SE of The Geysers, CA",earthquake
+aka2026ebedah,2026-02-27T06:54:07.337Z,57.351,-155.244,72.4,2.2,ml,"53 km WSW of Karluk, Alaska",earthquake
+us7000s0p2,2026-02-27T06:43:25.997Z,25.2043,124.9881,10,4.7,mb,"54 km NW of Hirara, Japan",earthquake
+hv74909971,2026-02-27T06:41:31.380Z,19.4325,-155.60483333333,38.57,2.16,ml,"27 km E of Honaunau-Napoopoo, Hawaii",earthquake
+hv74909966,2026-02-27T06:41:26.590Z,19.511666666667,-155.507,-1.47,0.83,md,"29 km WNW of Volcano, Hawaii",earthquake
+nc75319622,2026-02-27T06:38:22.020Z,38.829334259033,-122.81916809082,1.6100000143051,0.93,md,"8 km NW of The Geysers, CA",earthquake
+aka2026ebdkps,2026-02-27T06:32:44.658Z,60.417,-153.315,168.7,2.6,ml,"60 km ENE of Port Alsworth, Alaska",earthquake
+ok2026eaqm,2026-02-27T06:28:02.270Z,35.62,-97.99566667,6.27,1.31,ml,"10 km NNW of El Reno, Oklahoma",earthquake
+us7000s0nv,2026-02-27T06:27:35.620Z,-21.0299,-70.0138,51.932,4.6,mb,"83 km S of La Tirana, Chile",earthquake
+aka2026ebddpx,2026-02-27T06:24:37.526Z,59.942,-151.533,56.2,2,ml,"11 km E of Happy Valley, Alaska",earthquake
+tx2026ebddkf,2026-02-27T06:24:23.522Z,32.147,-101.991,4.6631,0.2,ml,"18 km NNE of Midland, Texas",earthquake
+av94061518,2026-02-27T06:13:19.950Z,58.172,-155.36316666667,1.95,-0.01,ml,"86 km NW of Karluk, Alaska",earthquake
+ci41404984,2026-02-27T06:13:17.870Z,33.876833333333,-118.099,10.91,1.25,ml,"2 km ESE of Bellflower, CA",earthquake
+us7000s0nu,2026-02-27T06:11:46.941Z,25.2055,125.004,10,4.8,mww,"53 km NW of Hirara, Japan",earthquake
+us7000s0nz,2026-02-27T06:11:20.624Z,25.0776,125.0551,10,4.3,mb,"39 km NW of Hirara, Japan",earthquake
+uu80130741,2026-02-27T06:07:44.820Z,37.9415,-113.53316666667,0.67,1.6,ml,"27 km NNE of Beryl Junction, Utah",earthquake
+nc75319617,2026-02-27T06:02:23.860Z,38.825832366943,-122.79983520508,2.579999923706,0.73,md,"7 km NW of The Geysers, CA",earthquake
+ok2026eapo,2026-02-27T06:00:00.690Z,35.61833333,-98.03016667,7.18,0.91,ml,"8 km ENE of Calumet, Oklahoma",earthquake
+tx2026ebcgvy,2026-02-27T05:58:13.177Z,32.403,-101.577,5.2002,0.8,ml,"18 km SE of Ackerly, Texas",earthquake
+nn00911290,2026-02-27T05:57:34.572Z,35.6468,-114.2087,3.927,1.69,ml,"8 km NE of Dolan Springs, Arizona",earthquake
+nc75319607,2026-02-27T05:51:23.990Z,38.825500488281,-122.79833221435,2.9700000286102,0.71,md,"6 km NW of The Geysers, CA",earthquake
+us6000sfum,2026-02-27T05:50:38.841Z,25.2242,124.9884,10,4.2,mb,"56 km NW of Hirara, Japan",earthquake
+us7000s0nq,2026-02-27T05:45:09.785Z,-5.683,133.7283,10,4.7,mb,"108 km E of Tual, Indonesia",earthquake
+nc75319602,2026-02-27T05:35:57.500Z,38.823833465576,-122.80117034912,2.3399999141693,1.3,md,"6 km NW of The Geysers, CA",earthquake
+ok2026eaor,2026-02-27T05:33:51.390Z,34.399,-97.4135,4.5,1.21,ml,"10 km SSE of Tatums, Oklahoma",earthquake
+nc75319597,2026-02-27T05:33:16.110Z,38.825668334961,-122.79816436768,2.2000000476837,1.07,md,"6 km NW of The Geysers, CA",earthquake
+nc75319592,2026-02-27T05:32:05.680Z,38.821666717529,-122.80016326904,2.9700000286102,0.88,md,"6 km NW of The Geysers, CA",earthquake
+nc75319587,2026-02-27T05:29:43.440Z,38.8255,-122.7995,2.8,0.42,md,"7 km NW of The Geysers, CA",earthquake
+nc75319572,2026-02-27T05:27:04.230Z,38.82466506958,-122.80400085449,1.960000038147,0.23,md,"7 km NW of The Geysers, CA",earthquake
+nc75319567,2026-02-27T05:26:54.670Z,38.825166666667,-122.80016666667,2.76,0.42,md,"7 km NW of The Geysers, CA",earthquake
+nc75319562,2026-02-27T05:26:26.150Z,38.823333740234,-122.79949951172,2.5999999046326,0.53,md,"6 km NW of The Geysers, CA",earthquake
+nc75319557,2026-02-27T05:25:32.660Z,38.8265,-122.797,3.34,3.11,ml,"6 km W of Cobb, CA",earthquake
+ci41404968,2026-02-27T05:25:29.480Z,33.370833333333,-116.68316666667,12.21,0.08,ml,"11 km NNW of Warner Springs, CA",earthquake
+tx2026ebazso,2026-02-27T05:19:47.125Z,32.045,-102.213,6.2012,0.4,ml,"13 km WNW of Midland, Texas",earthquake
+av94061433,2026-02-27T05:19:10.190Z,53.915333333333,-166.918,15.01,1.23,ml,"24 km W of Dutch Harbor, Alaska",earthquake
+us7000s0nm,2026-02-27T05:19:08.745Z,16.5143,-98.6649,35,4.4,mb,"7 km E of Barra de Tecoanapa, Mexico",earthquake
+us7000s0nl,2026-02-27T05:17:52.119Z,51.5045,-174.8703,34.108,5,mb,"89 km SSW of Atka, Alaska",earthquake
+aka2026ebaxdj,2026-02-27T05:16:46.013Z,61.488,-140.651,6.1,2.1,ml,"121 km E of McCarthy, Alaska",earthquake
+aka2026ebahxw,2026-02-27T04:59:06.700Z,63.173,-147.689,1.8,1.9,ml,"67 km ESE of Cantwell, Alaska",earthquake
+ci41404960,2026-02-27T04:55:14.340Z,32.2665,-116.38066666667,17.77,1.75,ml,"39 km SSE of Campo, CA",earthquake
+ok2026eank,2026-02-27T04:55:02.629Z,34.42516667,-97.45183333,4.22,1.34,ml,"5 km ESE of Ratliff City, Oklahoma",earthquake
+us6000sfuq,2026-02-27T04:39:00.627Z,25.1455,125.0305,10,4.4,mb,"46 km NW of Hirara, Japan",earthquake
+nc75319547,2026-02-27T04:36:06.920Z,38.836334228516,-122.78316497803,2.0299999713898,1.01,md,"5 km WNW of Cobb, CA",earthquake
+ok2026eamt,2026-02-27T04:34:54.750Z,34.41616667,-97.4435,5.45,1.29,ml,"7 km ESE of Ratliff City, Oklahoma",earthquake
+us7000s0z1,2026-02-27T04:32:55.270Z,52.559,-170.0226,35,2.9,ml,"89 km WSW of Nikolski, Alaska",earthquake
+ok2026eamk,2026-02-27T04:24:25.890Z,34.419,-97.4505,5.16,1.29,ml,"6 km ESE of Ratliff City, Oklahoma",earthquake
+us6000sfuj,2026-02-27T04:19:31.284Z,52.269,160.5069,35,4.4,mb,"154 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake
+aka2026eayxyn,2026-02-27T04:17:22.508Z,60.456,-143.089,17.1,1.7,ml,"109 km S of McCarthy, Alaska",earthquake
+aka2026eayxcd,2026-02-27T04:16:18.982Z,61.559,-141.299,12.8,1.9,ml,"87 km E of McCarthy, Alaska",earthquake
+aka2026eaytnp,2026-02-27T04:12:14.295Z,61.163,-154.207,11.7,1.9,ml,"69 km ESE of Lime Village, Alaska",earthquake
+tx2026eaynsk,2026-02-27T04:08:47.183Z,32.228,-103.061,4.541,1.7,ml,"17 km NE of Jal, New Mexico",earthquake
+us6000sfup,2026-02-27T03:57:32.845Z,13.4655,145.0068,69.673,4.5,mb,"14 km ESE of Yigo Village, Guam",earthquake
+us7000s0ng,2026-02-27T03:51:37.978Z,34.4068,45.5634,10,4.6,mb,"28 km WSW of Sarpol-e Z̄ahāb, Iran",earthquake
+ok2026eale,2026-02-27T03:47:45.640Z,34.43233333,-97.47133333,4.33,1.22,ml,"3 km ESE of Ratliff City, Oklahoma",earthquake
+se60505108,2026-02-27T03:46:25.290Z,38.667666666667,-83.4755,18.23,2.24,md,"2 km SSE of Concord, Kentucky",earthquake
+uu80130736,2026-02-27T03:43:12.510Z,39.336333333333,-111.95616666667,4.44,2.04,md,"15 km NW of Fayette, Utah",earthquake
+aka2026eaxmtk,2026-02-27T03:34:31.490Z,55.821,-153.283,20,3.4,ml,"136 km SSE of Akhiok, Alaska",earthquake
+us7000s0zf,2026-02-27T03:25:21.438Z,44.0976,-75.7755,9.523,1.4,ml,"2 km ENE of Evans Mills, New York",earthquake
+nc75319542,2026-02-27T03:22:14.370Z,38.806167602539,-122.81517028809,3.6099998950958,0.76,md,"6 km WNW of The Geysers, CA",earthquake
+us7000s0yk,2026-02-27T03:21:37.150Z,52.4549,-169.8798,10,2.6,ml,"87 km SW of Nikolski, Alaska",earthquake
+us7000s0wc,2026-02-27T03:14:47.328Z,52.4581,-169.8186,8.281,3.9,mb,"83 km SW of Nikolski, Alaska",earthquake
+us7000s0n9,2026-02-27T03:11:24.351Z,-21.0522,-178.4102,509.194,4.2,mb,Fiji region,earthquake
+us7000s0yi,2026-02-27T03:07:20.921Z,52.4778,-169.7896,10.94,3.8,mb,"81 km SW of Nikolski, Alaska",earthquake
+ci41404944,2026-02-27T03:04:48.180Z,33.2535,-117.43733333333,15.03,1.08,ml,"6 km WNW of Camp Pendleton South, CA",earthquake
+nc75319537,2026-02-27T02:58:56.850Z,38.794834136963,-122.80766296387,2.539999961853,1.5,md,"5 km WNW of The Geysers, CA",earthquake
+nc75319532,2026-02-27T02:58:11.780Z,38.795501708984,-122.8073348999,3.460000038147,0.77,md,"5 km WNW of The Geysers, CA",earthquake
+us7000s0n7,2026-02-27T02:54:52.374Z,25.2601,125.0247,10,5.2,mb,"57 km NNW of Hirara, Japan",earthquake
+us6000sful,2026-02-27T02:54:00.094Z,25.3111,124.9987,10,4.4,mb,"64 km NNW of Hirara, Japan",earthquake
+ci41404928,2026-02-27T02:51:59.610Z,33.531333333333,-116.73466666667,4.19,0.37,ml,"6 km WSW of Anza, CA",earthquake
+ok2026eajf,2026-02-27T02:47:55.439Z,34.42516667,-97.4535,4.62,1.29,ml,"5 km ESE of Ratliff City, Oklahoma",earthquake
+aka2026eavwof,2026-02-27T02:45:19.208Z,61.755,-150.376,30.7,1.9,ml,"17 km W of Willow, Alaska",earthquake
+uw62229071,2026-02-27T02:29:44.120Z,46.296166666667,-122.32983333333,10.95,0.19,ml,"28 km SSE of Mossyrock, Washington",earthquake
+aka2026eavicl,2026-02-27T02:28:27.727Z,64.48,-149.399,11.6,1.5,ml,"17 km WSW of Nenana, Alaska",earthquake
+us7000s0ye,2026-02-27T02:25:59.693Z,59.7815,-136.7726,10,2.4,ml,"47 km NW of Mosquito Lake, Alaska",earthquake
+us7000s2bt,2026-02-27T02:22:14.706Z,54.5043,-160.0691,10,2.7,ml,"96 km SSE of Sand Point, Alaska",earthquake
+nn00911284,2026-02-27T02:21:44.444Z,37.1158,-114.5667,7.5949,1.5,ml,"48 km N of Moapa Town, Nevada",earthquake
+ci41404920,2026-02-27T02:13:44.160Z,33.486,-116.55083333333,6.74,0.51,ml,"14 km SE of Anza, CA",earthquake
+ci41404912,2026-02-27T02:12:52.740Z,33.484,-116.56116666667,7.05,1.18,ml,"13 km SE of Anza, CA",earthquake
+ci41404904,2026-02-27T02:11:09.080Z,34.0615,-117.3,16.02,1.36,ml,"2 km SE of Colton, CA",earthquake
+nc75319527,2026-02-27T01:58:52.980Z,38.787833333333,-122.74616666667,1.42,2.65,md,"1 km NE of The Geysers, CA",earthquake
+ok2026eahl,2026-02-27T01:54:00.140Z,35.627,-98.03016667,5.53,1.33,ml,"8 km ENE of Calumet, Oklahoma",earthquake
+tx2026eaudcd,2026-02-27T01:52:25.425Z,32.433,-102.16,8.5205,0.9,ml,"37 km ENE of McKinney Acres, Texas",earthquake
+ok2026eahj,2026-02-27T01:52:19.750Z,35.627,-98.03566667,4.48,1.06,ml,"8 km ENE of Calumet, Oklahoma",earthquake
+us7000s0w9,2026-02-27T01:51:41.485Z,52.5006,-169.7709,10,2.7,ml,"78 km SW of Nikolski, Alaska",earthquake
+us7000s0p3,2026-02-27T01:51:07.954Z,32.5849,49.8149,10,4.2,mb,"48 km SW of Fereydūnshahr, Iran",earthquake
+ci41404896,2026-02-27T01:44:52.490Z,33.2535,-116.111,9.92,1.53,ml,"12 km N of Ocotillo Wells, CA",earthquake
+ci41404888,2026-02-27T01:43:47.470Z,33.254833333333,-116.10766666667,10.68,1.39,ml,"13 km N of Ocotillo Wells, CA",earthquake
+ok2026eahc,2026-02-27T01:43:32.030Z,35.63566667,-98.02666667,5.62,1.05,ml,"9 km ENE of Calumet, Oklahoma",earthquake
+aka2026eatsfq,2026-02-27T01:39:51.232Z,59.078,-152.398,64.9,2.2,ml,"41 km SW of Nanwalek, Alaska",earthquake
+nc75319522,2026-02-27T01:38:39.170Z,35.547166666667,-120.78183333333,5.21,1.86,md,"7 km W of Templeton, CA",earthquake
+ci41404880,2026-02-27T01:36:41.300Z,34.1215,-117.45516666667,6.15,0.62,ml,"3 km N of Fontana, CA",earthquake
+aka2026eatefl,2026-02-27T01:23:35.994Z,61.51,-149.887,51.5,1.8,ml,"3 km ESE of Big Lake, Alaska",earthquake
+nn00911283,2026-02-27T01:17:33.395Z,38.5931,-117.193,15.9922,2.16,ml,"58 km N of Tonopah, Nevada",earthquake
+aka2026easwpn,2026-02-27T01:14:46.667Z,59.529,-151.893,55,3.2,ml,"14 km NW of Seldovia, Alaska",earthquake
+us7000s0mq,2026-02-27T01:06:55.774Z,60.59,-140.038,5,2.4,ml,"117 km N of Yakutat, Alaska",earthquake
+hv74909741,2026-02-27T01:05:19.300Z,19.440666666667,-154.86733333333,0.54,2.11,ml,"6 km ESE of Leilani Estates, Hawaii",earthquake
+ok2026eafq,2026-02-27T00:59:59.240Z,34.42,-97.4405,5.59,1.3,ml,"7 km ESE of Ratliff City, Oklahoma",earthquake
+us7000s0w5,2026-02-27T00:59:37.704Z,52.4214,-169.7164,16.17,2.9,ml,"81 km SW of Nikolski, Alaska",earthquake
+hv74909736,2026-02-27T00:55:25.030Z,19.156666666667,-155.45316666667,29.75,1.47,ml,"5 km SSE of Pāhala, Hawaii",earthquake
+us7000s0mj,2026-02-27T00:53:38.330Z,60.4802,-139.8441,5,2.7,ml,"104 km N of Yakutat, Alaska",earthquake
+us7000s0mm,2026-02-27T00:52:33.405Z,-19.7109,-177.6469,567.208,4.1,mb,"293 km NW of Houma, Tonga",earthquake
+aka2026easclh,2026-02-27T00:51:22.696Z,64.982,-147.358,4.2,1.6,ml,"12 km ENE of Fox, Alaska",earthquake
+us7000s0w1,2026-02-27T00:49:51.212Z,52.4064,-169.8963,10.206,2.5,ml,"91 km SW of Nikolski, Alaska",earthquake
+ok2026eafc,2026-02-27T00:43:21.940Z,34.41833333,-97.43883333,4.65,1.46,ml,"7 km ESE of Ratliff City, Oklahoma",earthquake
+us6000sfuf,2026-02-27T00:39:31.485Z,-20.53,-178.0112,507.813,4.1,mb,"290 km WNW of Houma, Tonga",earthquake
+nc75319502,2026-02-27T00:31:45.860Z,37.097,-119.785,-0.39,2.26,md,"11 km S of Yosemite Lakes, CA",quarry blast
+nc75319497,2026-02-27T00:31:36.190Z,38.82466506958,-122.84583282471,2.1600000858307,1.09,md,"9 km NW of The Geysers, CA",earthquake
+tx2026earjfc,2026-02-27T00:29:00.828Z,28.564,-98.358,7.4595,2.1,ml,"20 km WNW of Three Rivers, Texas",earthquake
+uw62229056,2026-02-27T00:28:01.090Z,47.939166666667,-117.322,-0.72,0.89,md,"11 km E of Deer Park, Washington",explosion
+nc75319492,2026-02-27T00:15:34.280Z,38.815166473389,-122.77500152588,-0.20999999344349,1.28,md,"5 km NNW of The Geysers, CA",earthquake
+aka2026eaqwjm,2026-02-27T00:14:09.317Z,60.499,-139.977,12.8,2.2,ml,"106 km N of Yakutat, Alaska",earthquake
+ci41404864,2026-02-27T00:13:01.650Z,33.983,-118.17533333333,15.57,0.99,ml,"1 km ESE of Maywood, CA",earthquake
+aka2026eaqtsn,2026-02-27T00:11:04.600Z,60.896,-150.88,8,2.3,ml,"10 km WSW of Point Possession, Alaska",earthquake
+uu80130731,2026-02-27T00:09:41.880Z,44.7645,-110.46933333333,4.43,0.52,ml,"29 km SE of Mammoth, Wyoming",earthquake
+uw62229046,2026-02-27T00:08:53.100Z,46.992666666667,-122.23416666667,-0.48,1.47,ml,"1 km NW of Kapowsin, Washington",explosion
+tx2026eaqoay,2026-02-27T00:04:29.697Z,32.143,-101.997,8.8135,2,ml,"17 km NNE of Midland, Texas",earthquake
+nc75319487,2026-02-27T00:01:07.350Z,38.824333190918,-122.80766296387,2.2599999904633,1.07,md,"7 km NW of The Geysers, CA",earthquake

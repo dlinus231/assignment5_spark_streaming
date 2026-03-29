@@ -38,9 +38,9 @@ IMPORTANT
 import argparse
 
 from pyspark.sql import SparkSession
-from pyspark.sql.types import StructType, StringType, DoubleType, StructField
+from pyspark.sql.types import StructType, StringType, DoubleType
 from pyspark.sql.functions import (
-    col, to_timestamp, from_unixtime, when, regexp_extract, expr, window, count
+    col, to_timestamp, from_unixtime, when, regexp_extract, expr, window
 )
 
 def create_spark(app_name="earthquakes-streaming-lab"):
@@ -70,7 +70,7 @@ def robust_event_ts(df):
     - Use a conditional expression to choose between the numeric path (epoch ms → seconds → timestamp) and the string parse path (ISO8601 → timestamp).
     - Ensure the final type of 'event_ts' is a Spark TimestampType, not a string.
     """
-    return df.withColumn("event_ts", to_timestamp(col("time"), "yyyy-MM-dd'T'HH:mm:ss.SSSX"))
+    raise NotImplementedError("Implement robust_event_ts(): derive 'event_ts' from 'time' (epoch ms or ISO8601)")
 
 def derive_region_and_mag(df):
     """
@@ -97,29 +97,7 @@ def derive_region_and_mag(df):
     Return:
     - The input DataFrame with the three new columns: 'region', 'mag_d', and 'magnitude_band'.
     """
-    with_region = df.withColumn("region", 
-       when(
-          col("place").isNull() | (~col("place").contains(",")), "Unknown"
-       ).otherwise(
-          trim(element_at(split(col("place"), ","), -1))
-       )
-    )
-
-    with_mag_d = with_region.withColumn("mag_d", col("mag").cast("double"))
-    with_magnitude_band = with_mag_d.withColumn("magnitude_band", 
-       when(
-          col(mag_d).isNull(), "unknown"
-       ).when(
-           (col("mag_d") <= 0) & (col("mag_d") < 2), "[0-2)"
-       ).when(
-          (col("mag_d") >= 2) & (col("mag_d") < 4), "[2-4)"
-       ).when(
-          (col("mag_d") >= 4) & (col("mag_d") < 6), "[4-6)"
-       ).when(
-          col("mag_d") >= 6, "6+"
-       ).otherwise("unknown")
-    )
-    return with_magnitude_band
+    raise NotImplementedError("Implement derive_region_and_mag(): 'region', 'mag_d', and 'magnitude_band' columns")
 
 def build_stream(spark, landing_path, out_path, ckpt_path):
     """
@@ -160,54 +138,10 @@ def build_stream(spark, landing_path, out_path, ckpt_path):
     - Ensure you start both queries before returning them.
     """
     schema = StructType([
-      StructField("id", StringType(), True),
-      StructField("time", StringType(), True),
-      StructField("latitude", StringType(), True),
-      StructField("longitude", StringType(), True),
-      StructField("depth", StringType(), True),
-      StructField("mag", StringType(), True),
-      StructField("magType", StringType(), True),
-      StructField("place", StringType(), True),
-      StructField("type", StringType(), True)
+        
     ])
-    streaming_df = spark.readStream \
-       .format("csv") \
-       .schema(schema) \
-       .option("header", True) \
-       .load(landing_path)
     
-    df_with_ts = robust_event_ts(streaming_df)
-    df_with_region_and_mag = derive_region_and_mag(df_with_ts)
-    windowed_df = df_with_region_and_mag \
-       .withWatermark("event_ts", "30 minutes") \
-       .groupBy(
-           window(col("event_ts"), "15 minutes"),
-           col("region"),
-           col("mag_d"),
-           col("magnitude_band")
-       ).agg(
-           count("*").alias("count")
-       ).select(
-          col("window.start").alias("window_start"),
-          col("window.end").alias("window_end"),
-          col("region"),
-          col("magnitude_band"),
-          col("count")
-       )
-    console_write_stream = windowed_df.writeStream \
-       .format("csv") \
-       .outputMode("console") \
-       .start()
- 
-    def write_csv(batch_df, batch_id):
-       batch_df.write.mode("update").parquet(out_path, header=True)
- 
-    file_write_stream = windowed_df.writeStream \
-       .foreachBatch(write_csv) \
-       .option("checkpointLocation", ckpt_path) \
-       .start()
-    return [console_write_stream, file_write_stream]
-   
+    raise NotImplementedError("Implement build_stream(): schema, readStream, watermark+windowed aggregation, and sinks")
 
 def parse_args():
     ap = argparse.ArgumentParser()
